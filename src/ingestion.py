@@ -59,7 +59,7 @@ def pagination(session):
             break
         all_results.extend(result)
         page += 1
-        return all_results
+    return all_results
 
 def create_df(session):
     result = pagination(session)
