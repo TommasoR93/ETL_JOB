@@ -1,0 +1,1715 @@
+[
+  {
+    "longitude": 0.523841,
+    "title": "Sub Contractor Payments Clerk",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzA3MzMxNTE0In0.Ov6SMjV2K_oYS3o1VZQdCZcbVT96ubySu1UU2l7IcRA",
+    "salary_is_predicted": "1",
+    "contract_type": "contract",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "salary_min": 41648.32,
+    "location": {
+      "display_name": "Maidstone, Kent",
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Maidstone"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-04-22T19:01:27Z",
+    "salary_max": 41648.32,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.270302,
+    "id": "5707331514",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707331514?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=3B274D5F47193BC7C1E91103DDDB5A08446E952B",
+    "description": "Sun contractor payments job opportunity Your new company Large House Builder with an outstanding reputation. Your new role Looking for an experienced Subcontractor Payments Clerk to cover maternity. •Subcontract Payments Clerk - circa 1000 payments per month •Temporary (Maternity Cover) •COINS and Housebuilder Experience •Immediate start (for hand over / training etc) Hours: 35 per week - can start between 8-9.30am Parking available Kitchen Facilities available What you'll need to succeed Exper…"
+  },
+  {
+    "company": {
+      "display_name": "Gregory",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "logistics-warehouse-jobs",
+      "label": "Logistics & Warehouse Jobs"
+    },
+    "salary_min": 29723,
+    "location": {
+      "area": [
+        "UK",
+        "Scotland",
+        "Aberdeenshire",
+        "Aberdeen",
+        "Bucksburn",
+        "Craibstone"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Craibstone, Bucksburn"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 57.203317,
+    "salary_max": 35443,
+    "created": "2026-04-28T15:34:19Z",
+    "id": "5712796730",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5712796730?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=3E620DE081FD7DBB1FF9DF061AB165F287FD958F",
+    "description": "Class 1 Driver Location : Aberdeen Shift : Monday - Friday, Days Do you have a UK Class 1 CE Licence? If \"YES,\" we want to hear from you! About the Role As a Class 1 Driver, you will: Use a curtain side or flatbed trailer to deliver and collect oil and gas equipment within the local area. Ensure goods are loaded and secured correctly to prevent shifting or damage. Use straps, nets, and other securing devices as needed. Perform comprehensive daily vehicle safety checks using your company phone t…",
+    "contract_time": "full_time",
+    "longitude": -2.219024,
+    "title": "Class 1 Driver Locals",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzEyNzk2NzMwIn0.QxRpvT-8LnMPi9j2o6Pt7dSuFQD_DNXLBAQuRgqdC6Q",
+    "salary_is_predicted": "0",
+    "contract_type": "permanent"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715045752?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=C4552A997FC146C4EB19E1061E0362AE4FC8D829",
+    "contract_time": "part_time",
+    "description": "Job Advert Staff Nurse – Ward Part Time | Park Hill Hospital The role At Ramsay Health Care UK, we know our people are our most important asset. Join us as a Staff Nurse on our Ward team, and together, you’ll deliver the highest quality clinical outcomes in an environment where you’ll have ‘more time to care’. You’ll be valued for your skills and expertise, and have the chance to build on them through our Ramsay Academy too. We put the patient at the heart of everything we do – as our ‘Speaking…",
+    "id": "5715045752",
+    "location": {
+      "display_name": "Catcliffe, Rotherham",
+      "area": [
+        "UK",
+        "Yorkshire And The Humber",
+        "South Yorkshire",
+        "Rotherham",
+        "Catcliffe"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:15:26Z",
+    "latitude": 53.414934,
+    "salary_max": 38601.25,
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ramsay Health Care"
+    },
+    "salary_min": 38601.25,
+    "longitude": -1.349627,
+    "title": "Staff Nurse - Ward",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTA0NTc1MiIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.SH-CUxV1nMychfUwcxiHWkR_KJF_vacfvSAQid7fSSE",
+    "salary_is_predicted": "1"
+  },
+  {
+    "contract_type": "contract",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTk1Mzg1NTMyIn0.B17RGR-qJ60WW4b7Fga9k_XZ9ZqPTY8F0V6Jt9OlWVw",
+    "title": "Sign Up To Drive With Uber - Flexible Alternative To Driving Jobs",
+    "longitude": -0.665516,
+    "salary_is_predicted": "1",
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595385532?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=87015B7FBB529050B79CE149FB39832385A3797B",
+    "id": "5595385532",
+    "location": {
+      "display_name": "Burnham, Slough",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Berkshire",
+        "Slough",
+        "Burnham"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.535801,
+    "created": "2026-01-22T13:30:29Z",
+    "salary_max": 32659.73,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Uber"
+    },
+    "category": {
+      "tag": "travel-jobs",
+      "label": "Travel Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 32659.73
+  },
+  {
+    "id": "5678008904",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5678008904?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=05A56DE22D078D2948D5EF3FB2524DBAC7FB7589",
+    "contract_time": "full_time",
+    "description": "Engineering Team Leader Location: Rogerstone Excellent Remuneration  Company Benefits Package  Progression in Management Hours: Working days/shifts: 7-day Fortnight - 2 weeks of days 2 weeks of nights - 07:00 - 19:00, 19:00 - 07:00 About Us Joining 2 Sisters means becoming part of the UK's largest food manufacturer, with a £3 billion turnover and over 13,500 employees. Our Rogerstone site is Europe's largest ready meals facility, consistently enhanced with significant investments, and producing…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "company": {
+      "display_name": "2 sisters Food Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 41164.28,
+    "location": {
+      "display_name": "Mynyddislwyn, Newport",
+      "area": [
+        "UK",
+        "Wales",
+        "Newport",
+        "Mynyddislwyn"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-03-25T11:33:35Z",
+    "latitude": 51.587937,
+    "salary_max": 41164.28,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "title": "Engineering Team Leader",
+    "longitude": -3.006949,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njc4MDA4OTA0In0.oDQlNHSruCdXlvWTnN1bHJ_r1BnboWWzue9ID1wG6Xc",
+    "salary_is_predicted": "1"
+  },
+  {
+    "id": "5694904465",
+    "description": "Description As a Jointing Supervisor, you will be responsible for supervising and managing the jointing teams working as part of our contract. You will provide technical expertise and experience, working as a team to deliver a first-class service to our customers. You will be experienced working in the Electricity supply industry. You will be able to engineer solutions on site and focus your teams on completing work right first time. You will work with the scheduling team ensuring programmes ar…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5694904465?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=BFAAC94E913043124C4270B58944FB5B2C2BA6BD",
+    "salary_min": 55000,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NDkwNDQ2NSIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.bW0b0fLEt4coVyg6Zd3270eDdhnbyP8qu3qXGTz63E8",
+    "longitude": -2.412156,
+    "category": {
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Network Plus"
+    },
+    "title": "Jointing Supervisor",
+    "latitude": 51.792799,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 60000,
+    "created": "2026-04-09T22:18:40Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South West England",
+        "Gloucestershire",
+        "Gloucester",
+        "Arlingham"
+      ],
+      "display_name": "Arlingham, Gloucester"
+    }
+  },
+  {
+    "id": "5595384427",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595384427?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=23BB46264134F1236F2AD4AFF36E7DA9528190D5",
+    "contract_time": "part_time",
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "category": {
+      "label": "Travel Jobs",
+      "tag": "travel-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Uber"
+    },
+    "salary_min": 38194.41,
+    "location": {
+      "display_name": "Send, Woking",
+      "area": [
+        "UK",
+        "South East England",
+        "Surrey",
+        "Woking",
+        "Send"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-01-22T13:30:24Z",
+    "salary_max": 38194.41,
+    "latitude": 51.2887,
+    "contract_type": "contract",
+    "longitude": -0.526606,
+    "title": "Sign Up To Drive With Uber - Flexible Alternative To Driving Jobs",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTk1Mzg0NDI3In0.usfmqS-Yk2IfQXwKKg6dNHy7PW23vGG0IGVA7yQOwfY",
+    "salary_is_predicted": "1"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5601011980?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=04A6FCBE81937BB0E09680EB0D6267764E3290DF",
+    "contract_time": "part_time",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "id": "5601011980",
+    "location": {
+      "area": [
+        "UK",
+        "Eastern England",
+        "Cambridgeshire",
+        "Ely",
+        "Witchford"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Witchford, Ely"
+    },
+    "latitude": 52.405372,
+    "salary_max": 72800,
+    "created": "2026-01-26T17:42:18Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "display_name": "Targeted Provision Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 58240,
+    "longitude": 0.221947,
+    "title": "SEN / SEND Tutor, Cambridgeshire",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwMTAxMTk4MCIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.wuKVn9JC_9qDLDKrmsCivQlH7P4nyzF8PihWbYWurO4",
+    "salary_is_predicted": "0"
+  },
+  {
+    "description": "Job Title: Audit Senior | Job Location: Glasgow Your new company This is an exciting opportunity to join a long-established and highly respected independent firm of Chartered Accountants based in the heart of Glasgow. Known for delivering high-quality audit, accountancy, and advisory services, the firm is committed to building long-term relationships with clients across a wide range of sectors. Due to continued growth, they are seeking an experienced Audit Senior to join their dynamic and suppo…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5652104560?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=046D2D74B55164DFEDB4D47DD6742DD3587CA506",
+    "id": "5652104560",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 45886.52,
+    "latitude": 55.86026,
+    "created": "2026-03-03T07:39:55Z",
+    "location": {
+      "display_name": "Glasgow, Scotland",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Scotland",
+        "Glasgow"
+      ]
+    },
+    "salary_is_predicted": "1",
+    "salary_min": 45886.52,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MjEwNDU2MCIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.qQLVfjn7LLsOdP_h-d3sx1YGgfLTE5Nsvi39MGKGtrM",
+    "title": "Audit Senior",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -4.25596
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041793?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=6CE305640008BB29250B1C44454C95F3E0F34AFB",
+    "description": "Job Title: Electrical and Instrumentation Commissioning Engineer Location: Barrow-In-Furness, onsite Salary: £37,091 Depending on experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect what matters most. You’ll be trusted to play your part in delivering advanced, technology-led defence, aerospace and security solutions, shaping a safe…",
+    "id": "5715041793",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Lancashire",
+        "Carnforth",
+        "Far Arnside"
+      ],
+      "display_name": "Far Arnside, Carnforth"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:14:47Z",
+    "latitude": 54.143364,
+    "salary_max": 39392,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BAE Systems"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "title": "Electrical and Instrumentation Commissioning Engineer",
+    "longitude": -2.878838,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTA0MTc5MyIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.PsHcrGDJpNf5vNEAJLPJDXomh9fJY1jite2na6HW1vk",
+    "salary_is_predicted": "1",
+    "salary_min": 39392
+  },
+  {
+    "id": "5643439493",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643439493?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=CDAD0899AE9A8BC22A20B0F77EBFD2C560E19FD5",
+    "description": "Leading Edinburgh Based Refurbishment Main Contractor seeks Senior QS to join their commercial team Senior Quantity Surveyor - Refurbishment Contractor EdinburghAttractive salary  profit-led environment  genuine entrepreneurial progression Are you a commercially sharp Quantity Surveyor looking for a role where you can truly influence profitability and be part of a growing, forward-thinking contractor? A well-established refurbishment specialist in Edinburgh is looking to appoint a Senior QS to …",
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Senior Quantity Surveyor",
+    "longitude": -3.327942,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjQzNDM5NDkzIn0.iHu31ejRoRdFQLo6ZQXpK0VqgT-bXwz83SxnLYYUISw",
+    "salary_is_predicted": "1",
+    "salary_min": 60911.23,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Scotland",
+        "Edinburgh"
+      ],
+      "display_name": "Edinburgh, Scotland"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 55.943116,
+    "created": "2026-02-24T10:27:17Z",
+    "salary_max": 60911.23
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_min": 37114.42,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njg4MTU1OTQxIn0.VBrWwvswB-gJKWrcWCT0dgAsocOYER22LZcypvzDQnY",
+    "title": "Gopuff Delivery Drivers or Riders - Flexible Schedule",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "travel-jobs",
+      "label": "Travel Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gopuff"
+    },
+    "longitude": -0.25547,
+    "latitude": 51.55228,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 37114.42,
+    "created": "2026-04-03T03:05:05Z",
+    "location": {
+      "display_name": "Stonebridge, North West London",
+      "area": [
+        "UK",
+        "London",
+        "North West London",
+        "Stonebridge"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5688155941",
+    "description": "Earn what you want, when you want! Become a Gopuff Delivery Partner and take control of your schedule. Deliver with your own vehicle, on your own time – and get paid weekly. Whether you’re new to delivery or an experienced courier, you’re welcome at Gopuff. What’s in it for you? Competitive pay – earn around the clock. Flexible hours – work when it suits you. Weekly payments – straight to your bank account. Stay comfortable – wait indoors for your next order. 24/7 support – our Live Ops team is…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5688155941?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=8471FABED86A8D11FFBBF70DC1B94C66956DFC51"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "travel-jobs",
+      "label": "Travel Jobs"
+    },
+    "longitude": -2.845196,
+    "company": {
+      "display_name": "Gopuff",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Gopuff Delivery Drivers or Riders - Choose when you work!",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NDgyODg0NyIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.yCbubnTIvJDwq4JfWnxmDuGtXItZhFylLciEuBwAp_U",
+    "salary_is_predicted": "1",
+    "salary_min": 40925.46,
+    "location": {
+      "display_name": "Nye, Hewish",
+      "area": [
+        "UK",
+        "South West England",
+        "North Somerset",
+        "Weston-Super-Mare",
+        "Hewish",
+        "Nye"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 40925.46,
+    "latitude": 51.377029,
+    "created": "2026-04-01T05:09:07Z",
+    "id": "5684828847",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5684828847?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=BD3600ECBFE574E35849F6DA7FE4C7B76749C28E",
+    "description": "Earn what you want, when you want! Become a Gopuff Delivery Partner and take control of your schedule. Deliver with your own vehicle, on your own time – and get paid weekly. Whether you’re new to delivery or an experienced courier, you’re welcome at Gopuff. What’s in it for you? Competitive pay – earn around the clock. Flexible hours – work when it suits you. Weekly payments – straight to your bank account. Stay comfortable – wait indoors for your next order. 24/7 support – our Live Ops team is…"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595384609?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=72BB4CBC328EE9221DDC499E8D2D328569ED8E3F",
+    "contract_time": "part_time",
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "id": "5595384609",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.623001,
+    "salary_max": 37025.55,
+    "created": "2026-01-22T13:30:25Z",
+    "location": {
+      "display_name": "Buckhurst Hill, Essex",
+      "area": [
+        "UK",
+        "Eastern England",
+        "Essex",
+        "Buckhurst Hill"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_min": 37025.55,
+    "company": {
+      "display_name": "Uber",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Travel Jobs",
+      "tag": "travel-jobs"
+    },
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "longitude": 0.0434,
+    "title": "Drive with Uber",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTk1Mzg0NjA5In0.aQZ13yeZLEMP2QGILUuwWK1xsRBviJPEbxZuxZzY5HY"
+  },
+  {
+    "contract_time": "part_time",
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595386051?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=E2B06A30D96F57E725954DA40806F432E064D893",
+    "id": "5595386051",
+    "created": "2026-01-22T13:30:32Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.483898,
+    "salary_max": 31682.74,
+    "location": {
+      "display_name": "Datchet, Slough",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Berkshire",
+        "Slough",
+        "Datchet"
+      ]
+    },
+    "salary_min": 31682.74,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Uber"
+    },
+    "category": {
+      "tag": "part-time-jobs",
+      "label": "Part time Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTk1Mzg2MDUxIn0.lo0bSMSLEKaqliB5BU7j8TxQy9oSzdqOxcaYWKWkFCI",
+    "longitude": -0.578569,
+    "title": "Looking For Part-Time Jobs Near Me? Drive With Uber Instead"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643439421?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=C4FD2FF161B170F953D3DC80DB9714DBEDF154BB",
+    "description": "Working Finishing Foreman Hays are Recruiting for a Working finishing Foreman for our client based in the Maidstone area. This is a Temp to Perm position for the successful candidate. The candidate will be expected to work on the tools and oversee the team. £250 Per day Must have: Carpenty background - New build and Extension Experience Experience / knowledge with Ground works - building from the ground up Own Tools and Own Transport Single to multiple plot site If interested and available in t…",
+    "id": "5643439421",
+    "created": "2026-02-24T10:27:17Z",
+    "salary_max": 42132.14,
+    "latitude": 51.270302,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Maidstone, Kent",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Maidstone"
+      ]
+    },
+    "salary_min": 42132.14,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "title": "Working Finishing Foreman",
+    "longitude": 0.523841,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjQzNDM5NDIxIn0.QnLjZ7rl16PGCo6JeUzWG57U8NK5wZdKiIk9OTIVf9A"
+  },
+  {
+    "salary_is_predicted": "1",
+    "title": "Head of Finance - 12-month FTC",
+    "longitude": -2.97784,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzMzMTIwNCIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.QvvJPzJnGbw--ghfpWAO8lb62zi15kGBn_ZZDDAcXgs",
+    "contract_type": "contract",
+    "salary_min": 48846.98,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "salary_max": 48846.98,
+    "latitude": 53.410801,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-22T19:01:20Z",
+    "location": {
+      "area": [
+        "UK",
+        "North West England",
+        "Merseyside",
+        "Liverpool"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Liverpool, Merseyside"
+    },
+    "id": "5707331204",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707331204?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=0CA061F0CCF3633D7DCFFCB119770159D1700363",
+    "description": "Head of Finance, 12-month FTC, Liverpool, Large Public Sector organisation, Hybrid working Your new company Large public sector organisation in Liverpool currently undergoing an exciting period of change and transformation. Your new role Working closely with the Finance Director and key budget holders, the role is responsible for leading the delivery of financial planning, budgeting, forecasting, and reporting processes. The job is a fantastic opportunity to contribute to new financial policies…"
+  },
+  {
+    "contract_type": "permanent",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzMzMTMzMiIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.V9XbBlVSEeu8MvAPncttu4JIgteT5rUnki9oMFnwBD8",
+    "title": "General Ledger Manager",
+    "longitude": -4.25596,
+    "id": "5707331332",
+    "description": "Job title: General Ledger Manager Your new company Our client is recruiting for a Finance Manager to join their team on a permanent basis. This is a full-time role, working Monday to Friday, 9am-5pm, and is based in Inverclyde with hybrid flexibility (three days in the office and two working from home). The offices are easily accessible by public transport and on-site parking is also available.This is a fantastic opportunity to join a values-driven organisation undergoing an exciting period of …",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707331332?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D189FA093D4F5E16015440F6AEA0355858E30ADB",
+    "salary_min": 51998.92,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 55.86026,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 51998.92,
+    "created": "2026-04-22T19:01:22Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Scotland",
+        "Glasgow"
+      ],
+      "display_name": "Glasgow, Scotland"
+    }
+  },
+  {
+    "longitude": -1.585345,
+    "title": "Special Education Needs Teacher",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NTQ4MjU1NyIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.Err93KX9brMKzQnTTcMsoua-6tYa_g8ycXUyw4UNE38",
+    "salary_is_predicted": "0",
+    "category": {
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Targeted Provision Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 58240,
+    "location": {
+      "area": [
+        "UK",
+        "West Midlands",
+        "Warwickshire",
+        "Warwick",
+        "Woodloes Park"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Woodloes Park, Warwick"
+    },
+    "created": "2026-01-15T02:27:50Z",
+    "latitude": 52.281716,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 72800,
+    "id": "5585482557",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482557?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=F3704F339F299AEDDF168D3B5DEA5500BE834716",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643691250?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=8AC98FB9F100C1E593683CF65CCA1012A86D8B37",
+    "description": "Accountant | Capital & Technical | Chesterfield | Permanent Accountant | Capital & Technical | Permanent | Chesterfield Hybrid working, flexible working, excellent benefits. Our client is seeking a strong knowledge of local government finance or public sector finance, including the rules, standards and guidance that relate to capital accounting and treasury activities. Your new company Join a forward-thinking organisation that plays a vital role in delivering impactful services to local communi…",
+    "id": "5643691250",
+    "created": "2026-02-24T15:28:05Z",
+    "latitude": 53.235401,
+    "salary_max": 61017.16,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "East Midlands",
+        "Derbyshire",
+        "Chesterfield"
+      ],
+      "display_name": "Chesterfield, Derbyshire"
+    },
+    "salary_min": 61017.16,
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "contract_type": "permanent",
+    "salary_is_predicted": "1",
+    "longitude": -1.42415,
+    "title": "Accountant - Capital & Technical",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MzY5MTI1MCIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.AijKXTPzlPHXpR6PMVs2k4Qy_8V5RzEx2P7JiIsZ6cc"
+  },
+  {
+    "company": {
+      "display_name": "Targeted Provision Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs"
+    },
+    "salary_min": 58240,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North East England",
+        "Northumberland",
+        "Alnwick",
+        "Denwick"
+      ],
+      "display_name": "Denwick, Alnwick"
+    },
+    "salary_max": 72800,
+    "latitude": 55.413923,
+    "created": "2026-01-26T17:42:19Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5601012018",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5601012018?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=E3914ADB46DD6F2F69351C5B8A0F4248EEED2E5C",
+    "contract_time": "part_time",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "longitude": -1.707665,
+    "title": "SEN Teacher",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjAxMDEyMDE4In0.Mnu6Spbzk_qRXuLEa0sj36ybvq_Fw93pO115rmmfEP8",
+    "salary_is_predicted": "0"
+  },
+  {
+    "description": "Client Services Your new company Hays are seeking a confident and motivated Customer & Client Support Executive to manage a high volume of outbound and inbound calls on a daily basis. This role is entirely phone-based and plays a vital part in supporting customers and clients, following up on meetings, handling objections, and maintaining accurate CRM records. This role is fully office based in Manchester city centre. The successful candidate will have previous sales experience, be comfortable …",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707330834?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=11F954AA0BD16886C63DA57B3627689142AC76F7",
+    "id": "5707330834",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 53.480701,
+    "salary_max": 22340.88,
+    "created": "2026-04-22T19:01:03Z",
+    "location": {
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Manchester"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Manchester, Greater Manchester"
+    },
+    "salary_is_predicted": "1",
+    "salary_min": 22340.88,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzA3MzMwODM0In0.IGVUmGOrigoeOZYzL5e39x29DPNXkEIMXfacXzoxKzg",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Sales Jobs",
+      "tag": "sales-jobs"
+    },
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Client Support",
+    "longitude": -2.23438
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5653377946?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=F3F186F0C95230D05E44E97E9DA18049BF6A3DCF",
+    "contract_type": "contract",
+    "description": "Senior Capital Projects Manager required on a temporary contract basis by a large public body Your new company The services of Hays have been retained by our client, a large public body, to recruit a Senior Capital Projects Manager on a temporary contract basis for an initial period of 12-18 months with the possibility of further extension. Your new role Reporting to the Head of Capital Projects, you will ensure the delivery of allocated capital projects from inception to completion, which will…",
+    "id": "5653377946",
+    "location": {
+      "area": [
+        "UK",
+        "Northern Ireland",
+        "Belfast"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Belfast, Northern Ireland"
+    },
+    "created": "2026-03-04T07:32:08Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 61682.62,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs"
+    },
+    "title": "Senior Capital Project Manager",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MzM3Nzk0NiIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.XYaak7Z6Xgk9EFb8F4MeonC0J5YAP1Alqt-tJ6_45RQ",
+    "salary_is_predicted": "1",
+    "salary_min": 61682.62
+  },
+  {
+    "salary_min": 40476.92,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ramsay Health Care"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "salary_max": 40476.92,
+    "created": "2026-04-18T03:40:26Z",
+    "latitude": 51.366608,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Belmont, Sutton",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Sutton",
+        "Belmont"
+      ]
+    },
+    "id": "5703227726",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5703227726?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=1C5E569593BA5AB1A35DB78CF859898E5814C479",
+    "description": "Job Description Theatre Practitioner - Anaesthetics/Recovery Full time - 37.5 hours per week An exciting opportunity has arisen for an enthusiastic Anaesthetic & Recovery Practitioner - RN/ODP at North Downs Hospital, Caterham. We are looking for a passionate individual to join the Theatre Team . The successful candidate will have HCPC/NMC registration, good experience in a similar role, with proven ability to work well within a team. With excellent communication skills they will also be requir…",
+    "contract_time": "full_time",
+    "salary_is_predicted": "1",
+    "title": "Theatre Practitioner - Anaesthetics/Recovery",
+    "longitude": -0.192794,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzIyNzcyNiIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.tjHTEftW4S7KI5ewfMBMOSPncdoHBVGiiCxOeO9fLYo"
+  },
+  {
+    "description": "Divisional Financial Controller for an IT Solutions business in London Your new company I am supporting a privately owned IT solutions business in London hiring an ACA-qualified Accountant with 2 years pqe to join the business as a Divisional Controller. This is a great place to work, it offers development and opportunities. The role suits someone looking to take control of a key business unit which contributes significantly to the broader revenue of the business. Your new role Prepare the annu…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707331551?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=1D57146FCC6C318154358FEA82C29B3F06280A8D",
+    "id": "5707331551",
+    "location": {
+      "display_name": "London, UK",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-04-22T19:01:28Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 81043.32,
+    "latitude": 51.503378,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzA3MzMxNTUxIn0.VNqnNVkP-hbcVwvG4ld9CjLZEdVZW3pKathfO31eW_Y",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Divisional Financial Controller",
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -0.139134,
+    "salary_is_predicted": "1",
+    "salary_min": 81043.32
+  },
+  {
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595384375?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D5F474BFD888958FC8A24C7C8CAE046C98E64437",
+    "id": "5595384375",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Eastern England",
+        "Bedfordshire",
+        "Bedford",
+        "Westoning"
+      ],
+      "display_name": "Westoning, Bedford"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-01-22T13:30:24Z",
+    "salary_max": 32927.81,
+    "latitude": 51.9814,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "travel-jobs",
+      "label": "Travel Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Uber"
+    },
+    "salary_min": 32927.81,
+    "contract_type": "contract",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTk1Mzg0Mzc1In0.awP6Ij0fMw3YdiaMSwGvInzz2EpTgjWzrcO-RbRSA1s",
+    "title": "Sign Up To Drive With Uber - Flexible Alternative To Driving Jobs",
+    "longitude": -0.496956,
+    "salary_is_predicted": "1"
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjAxMDEyMDIzIn0.9OP3Hq96y5PKCAXXwK71G5QUC9FJYo4UwtGCNPgIK1E",
+    "title": "SEN / SEND Tutor, Cambridgeshire",
+    "longitude": 0.439831,
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5601012023?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=F258691E2374B482E5487B11C9E9499DEF746C58",
+    "id": "5601012023",
+    "salary_max": 72800,
+    "latitude": 52.083219,
+    "created": "2026-01-26T17:42:19Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "UK",
+        "Eastern England",
+        "Suffolk",
+        "Haverhill",
+        "Withersfield"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Withersfield, Haverhill"
+    },
+    "salary_min": 58240,
+    "category": {
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    }
+  },
+  {
+    "title": "Mobile Vehicle Technician - Aylesbury",
+    "longitude": -1.325384,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjczMTI2Nzg5In0.bKdZO5jTJRqCblyhQFT4mA9sCGweVRz3XS-xFi6nK3w",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Wytham, Oxford",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Oxfordshire",
+        "Oxford",
+        "Wytham"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 44385,
+    "created": "2026-03-20T14:19:25Z",
+    "latitude": 51.78214,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "company": {
+      "display_name": "RAC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 40170,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5673126789?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=48C62616897830C5B4F72F3260B845BC70995B3B",
+    "contract_time": "full_time",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £40,170, with on-target earnings of up to £52,000 A guaranteed overtime option to increase your base salary to £44,385, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm , and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for roadside rescue - but this isn’t that. Our Service, Mainte…",
+    "id": "5673126789"
+  },
+  {
+    "salary_max": 32216.83,
+    "latitude": 52.545421,
+    "created": "2026-04-17T12:35:50Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "UK",
+        "East Midlands",
+        "Leicestershire",
+        "Hinckley",
+        "Wykin"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wykin, Hinckley"
+    },
+    "salary_min": 32216.83,
+    "category": {
+      "tag": "social-work-jobs",
+      "label": "Social work Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Witherslack Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5702487268?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=782D48AD8B5AB30E03A0274B136257F3B6DCABBC",
+    "contract_time": "full_time",
+    "description": "£34,274 - £40,640 assuming good attendance and up to 4 sleep ins per month Those huge small victories Working in our Children’s Homes means being a part of a young person’s day to day life. This means being there for the highest highs and lowest lows. Our support workers enable our young people to get their childhood back and create pathways to become well rounded adults – an incredibly rewarding role to have. There will be challenges along the way but there will also be the smallest moments wh…",
+    "id": "5702487268",
+    "salary_is_predicted": "1",
+    "longitude": -1.375845,
+    "title": "Children's Residential Support Worker",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjQ4NzI2OCIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.4rvlFCoMSKdznCndEAQVikQUMlodlrmkR7cDp-9LLjA"
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_min": 35418.88,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTA0MTgyNyIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.2756m3QeSxnajw_RZCWQqrRT757YXaB_WEANBnsCs2g",
+    "category": {
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BAE Systems"
+    },
+    "longitude": 0.458753,
+    "title": "Manufacturing Engineer – Calibration",
+    "latitude": 51.304454,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 35418.88,
+    "created": "2026-05-01T02:14:47Z",
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Aylesford",
+        "Ditton"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Ditton, Aylesford"
+    },
+    "id": "5715041827",
+    "description": "Job Title: Manufacturing Engineer – Calibration Location: Rochester; Kent: Onsite Salary: Up to £55,000 depending on experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect what matters most. You’ll be trusted to play your part in delivering the advanced, technology-led defence, aerospace and security solutions of tomorrow, shaping a s…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041827?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=781F072C6A416386090876D391F7E40B4ABDFCD9"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njg0NjM2ODY1In0.2Naa93-mC7IrtKshFqqhhLwGr6-0PP3nf2pxSm_EnvU",
+    "longitude": 0.138549,
+    "title": "Delivery Driver (Part Time 24 hours) - Erith",
+    "salary_is_predicted": "0",
+    "contract_type": "permanent",
+    "category": {
+      "label": "Part time Jobs",
+      "tag": "part-time-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Ocado Logistics",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 14,
+    "location": {
+      "display_name": "Barnehurst, Bexleyheath",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Bexleyheath",
+        "Barnehurst"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-01T02:01:17Z",
+    "latitude": 51.455463,
+    "salary_max": 14,
+    "id": "5684636865",
+    "contract_time": "part_time",
+    "description": "Love being on the move and interacting with people from all walks of life? Proud to deliver quality goods on time and put a smile on thousands of faces every week? Join Ocado Logistics where there are bags of possibilities. It’s our mission to provide an outstanding customer experience. Whilst others might call you delivery drivers, here at Ocado Logistics our Customer Service Team Members play a vital role, delivering top quality products on time and in an efficient manner. You’ll be out on th…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5684636865?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=23B93B24C8D583E5D3619BF8036D9A58D462C0CC"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMzczMjAyNCIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.exOrHAnsTNiWLT5wqoZPORN0ZwtTdmakZYMrT-e2HnI",
+    "longitude": -4.598736,
+    "title": "Customer Service Expert",
+    "salary_is_predicted": "1",
+    "contract_type": "permanent",
+    "company": {
+      "display_name": "Teleperformance",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "customer-services-jobs",
+      "label": "Customer Services Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 24935.75,
+    "location": {
+      "display_name": "Springside, Irvine",
+      "area": [
+        "UK",
+        "Scotland",
+        "North Ayrshire",
+        "Irvine",
+        "Springside"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 24935.75,
+    "created": "2026-04-29T16:56:47Z",
+    "latitude": 55.614809,
+    "id": "5713732024",
+    "description": "We are an equal opportunities employer and we welcome applications from all suitably qualified persons Are you looking for a rewarding career? Do you have a talent for building relationships with people? If so, you’ve found the right place. There’s a reason that Teleperformance is recognised again and again by industry analysts and experts alike. We are driven by a passion to accomplish the amazing, and a deep desire to deliver real results for our clients as well as being certified as one of t…",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5713732024?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=278CA790417DA369632DDD8BF4E951114E64C2F8"
+  },
+  {
+    "contract_type": "contract",
+    "salary_is_predicted": "1",
+    "longitude": -0.723876,
+    "title": "Driving For Cash? Sign Up To Drive With Uber And Earn Flexibly Instead",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTk1Mzg2Mzk5In0.8Yn6WAK5UqJRY-JOHTInamOdT3C_X_wDQ4CzJkEjTl0",
+    "id": "5595386399",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595386399?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=49D545C5003FB74AEA9355E5EC4D0921D5B78D2C",
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "contract_time": "part_time",
+    "salary_min": 32709.22,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "travel-jobs",
+      "label": "Travel Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Uber"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 32709.22,
+    "created": "2026-01-22T13:30:33Z",
+    "latitude": 52.029701,
+    "location": {
+      "display_name": "Woughton On The Green, Milton Keynes",
+      "area": [
+        "UK",
+        "South East England",
+        "Buckinghamshire",
+        "Milton Keynes",
+        "Woughton On The Green"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "salary_min": 36363.71,
+    "category": {
+      "label": "Travel Jobs",
+      "tag": "travel-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Uber"
+    },
+    "latitude": 51.389801,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-01-22T13:30:29Z",
+    "salary_max": 36363.71,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Rochester",
+        "Strood"
+      ],
+      "display_name": "Strood, Rochester"
+    },
+    "id": "5595385408",
+    "contract_time": "part_time",
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595385408?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=BE9B517432103FA8C9EAED3BAD953795B8C40A22",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTk1Mzg1NDA4In0.mfLSBdJbM9zTuY3shkRA_DMf4rrb5k88wPrcf5usszQ",
+    "title": "Make An Uber Account To Drive - Start Earning With The Uber App",
+    "longitude": 0.503732,
+    "contract_type": "contract"
+  },
+  {
+    "created": "2026-04-03T18:27:29Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 54934.69,
+    "latitude": 56.0312,
+    "location": {
+      "display_name": "Inverkeithing, Fife",
+      "area": [
+        "UK",
+        "Scotland",
+        "Fife",
+        "Inverkeithing"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "salary_min": 54934.69,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njg4ODI3NDIzIn0.bDDM3wNtu89AA2TsOamLnnkT2qqkYvxf86l29bdTt6k",
+    "category": {
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -3.39752,
+    "title": "Engineering Manager – Electrical Systems",
+    "description": "Job Title: Engineering Manager – Electrical Systems Location: : Barrow-in-Furness / Filton – (Hybrid -2 days a fortnight (Barrow), or 1 day a week(Filton) dependent on business needs, also a requirement to visit other sites in the UK on a regular basis) We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: £56,000 (Commensurate with skills and experience) Who we are: Join BAE Systems and you’ll be part of…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5688827423?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=0226663EEC26C8C349A4A5C8D9BC3E500B0A92AC",
+    "id": "5688827423"
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_min": 31492.98,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzMzMTYxOCIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.lUMBANTZ7UjNK30SAk5LuX7Ynq97bwnn2DysUC6Qsx8",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "title": "Accounts Payable Analyst",
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -1.75244,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 31492.98,
+    "created": "2026-04-22T19:01:29Z",
+    "latitude": 53.7939,
+    "location": {
+      "area": [
+        "UK",
+        "Yorkshire And The Humber",
+        "West Yorkshire",
+        "Bradford"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Bradford, West Yorkshire"
+    },
+    "id": "5707331618",
+    "description": "Accounts Payable Analyst role - Bradford Hybrid Hays are supporting a leading organisation seeking an experienced Accounts Payable Analyst to provide essential cover during a busy period. This role suits someone confident managing high-volume AP activity and maintaining strong financial controls. The RoleYou will deliver accurate and efficient accounts payable operations, including: Managing end-to-end AP processes, supplier payments and invoice processing Handling complex invoice queries and e…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707331618?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=7E5A0999484BE30486FB32880B489F839E8257FA"
+  },
+  {
+    "salary_min": 58240,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    },
+    "category": {
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_max": 72800,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-01-15T02:27:45Z",
+    "latitude": 53.798819,
+    "location": {
+      "display_name": "Holbeck, Leeds",
+      "area": [
+        "UK",
+        "Yorkshire And The Humber",
+        "West Yorkshire",
+        "Leeds",
+        "Holbeck"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5585482347",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482347?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=6A2CEF4A23FA56536CA02E6538A0F88E256C0705",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time",
+    "salary_is_predicted": "0",
+    "title": "NTP Teacher",
+    "longitude": -1.54582,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTg1NDgyMzQ3In0.YaNKL6fowMDbKIr2pVgUOL2RpmP1wPvCmtoxNZAa5a4"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTM4NDQzMiIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.PWCY5d3ON08SJ68q_VwD0ZFJhUg0BOrj3guaHSTHPhM",
+    "longitude": -0.585219,
+    "title": "Drive with Uber",
+    "salary_is_predicted": "1",
+    "contract_type": "contract",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Berkshire",
+        "Slough",
+        "Stoke Poges"
+      ],
+      "display_name": "Stoke Poges, Slough"
+    },
+    "created": "2026-01-22T13:30:24Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.547798,
+    "salary_max": 36176.2,
+    "category": {
+      "tag": "travel-jobs",
+      "label": "Travel Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Uber",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 36176.2,
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595384432?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=5648CD26DA6EA919DE09ECA33AB0C5FD0E8072CF",
+    "id": "5595384432"
+  },
+  {
+    "description": "Job Title: Principal Engineer – Electrical Engineering (Power) Location: : Barrow-in-Furness / Filton – (Hybrid -2 days a fortnight (Barrow), or 1 day a week(Filton) dependent on business needs. We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: £47,241 (Commensurate with skills and experience) Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleag…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5688827419?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=F6679BC6533430D0B56EF0B3D3F5B621EACBE18F",
+    "id": "5688827419",
+    "location": {
+      "display_name": "Chapels, Kirkby-In-Furness",
+      "area": [
+        "UK",
+        "North West England",
+        "Cumbria",
+        "Kirkby-In-Furness",
+        "Chapels"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 54.239544,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 52964.47,
+    "created": "2026-04-03T18:27:29Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4ODgyNzQxOSIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.EJLK72aA22WwgQIFznugpB4XBoSYykF6U-jhQl5nfIE",
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BAE Systems"
+    },
+    "longitude": -3.175876,
+    "title": "Principal Engineer – Electrical Engineering (Power)",
+    "salary_is_predicted": "1",
+    "salary_min": 52964.47
+  },
+  {
+    "location": {
+      "area": [
+        "UK",
+        "West Midlands",
+        "Birmingham"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Birmingham, West Midlands"
+    },
+    "latitude": 52.483002,
+    "salary_max": 42030.69,
+    "created": "2026-04-22T19:01:33Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "salary_min": 42030.69,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707331821?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=8F97009A585797C72D33E3EE6BBA5E030474E0D2",
+    "description": "Salary - £18.61 per Hour Location: Birmingham Fully Remote Are you an experienced interim credit control professional seeking your next challenge? We’re currently partnering with a local council to recruit a Credit Control Specialist for an initial six-month contract in a fully remote role. This opportunity has arisen to support the team during a period of increased workload, offering a chance to make a real impact on the public sector.  Key Responsibilities: Proactively chasing outstanding deb…",
+    "id": "5707331821",
+    "longitude": -1.89359,
+    "title": "Credit Control Specialist x2",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzMzMTgyMSIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.I-VkS_WBWaalR__v8uUgx4I35xJ5ufnOby_BPQGvjDc",
+    "salary_is_predicted": "1",
+    "contract_type": "contract"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.503378,
+    "created": "2026-02-24T10:27:21Z",
+    "salary_max": 54737.43,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "salary_is_predicted": "1",
+    "salary_min": 54737.43,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MzQzOTk3MyIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.kOqBOvjfOStuf7-bweHE1pEhN485guGKMiFcO2Y8Glg",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "longitude": -0.139134,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "title": "Commercial Accountant (Construction)",
+    "description": "A top class Construction business are looking for a qualified Commercial Accountant Your new company This company is one of the UK's best construction businesses, with a great brand and also company culture. With year on year growth and a superb pipeline for further investment and development, the organisation are looking to add to their commercial finance function. Your new role Working in a business partnering focused position this role requires a professional with confidence to own reporting…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643439973?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=4B0F02473462AFAF3919DEA2EAC0C33B80197878",
+    "id": "5643439973"
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_min": 34466.31,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzMzMTAwNSIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.uHSyHP5HXA0MSG9MgCVo9fEUPTHOQ4ZqaHix5JrLNmY",
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Admin Jobs",
+      "tag": "admin-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -0.139134,
+    "title": "Executive Assistant",
+    "salary_max": 34466.31,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.503378,
+    "created": "2026-04-22T19:01:07Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "display_name": "London, UK"
+    },
+    "id": "5707331005",
+    "description": "Executive Assistant, West End, hybrid working (3 days in the office) Your new company Executive Search Consultancy based in the West End. A company that values a work-life balance. Your new role Supporting a Partner within an Executive Search Consultancy based in the West End. The role will be varied and interesting, involving client engagement, organising events, arranging travel and inbox management, high level diary management, document support with presentations. What you'll need to succeed…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707331005?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=3AA12A912CDDF389C3105A1314B7AD32B59F595E"
+  },
+  {
+    "id": "5643690795",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643690795?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=217A4C4EC433C7BC871EC6B02B29FB3B9BF99244",
+    "description": "Audit SeniorIndependent Accountancy Firm Manchester City Centre Your new company An excellent opportunity has arisen for an Audit Senior to join a highly regarded independent accountancy practice based in Manchester city centre. This firm has a strong reputation for quality, client service, and developing its people, offering a supportive and collaborative working environment.This role would suit an experienced Audit Senior looking to take the next step in a firm that values autonomy, progressi…",
+    "salary_min": 45478.14,
+    "salary_is_predicted": "1",
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Audit Senior",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "longitude": -2.23438,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjQzNjkwNzk1In0.piSLpC9AbRwEVkajwvMslvmoVXd0MvieSG2VdihwlVk",
+    "latitude": 53.480701,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 45478.14,
+    "created": "2026-02-24T15:28:02Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Manchester"
+      ],
+      "display_name": "Manchester, Greater Manchester"
+    }
+  },
+  {
+    "salary_max": 52296.82,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 55.86026,
+    "created": "2026-02-24T10:27:14Z",
+    "location": {
+      "display_name": "Glasgow, Scotland",
+      "area": [
+        "UK",
+        "Scotland",
+        "Glasgow"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_min": 52296.82,
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjQzNDM5MDIzIn0.r09bC5njPIbVpenhv3NZAOOmx-ZaBq7MVYrg9wK2rn8",
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Building Surveyor",
+    "longitude": -4.25596,
+    "description": "Building Surveyor Job MRICS or APC Candidate If you are a Building Surveyor looking for a new role, but this one isn't for you - please contact Abby on 07701276388 for more information on live roles. There are roles available for Graduates up to Senior Associate Level. Your new company Join one of Scotland’s largest and most respected independent firms of Chartered Surveyors. With over 30 offices covering every postcode in mainland Scotland, this company has built a reputation for delivering ex…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643439023?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=16EBB97805F3BBCC6A2C2B3C785DB65E5BF50702",
+    "id": "5643439023"
+  },
+  {
+    "created": "2026-01-15T02:27:51Z",
+    "latitude": 54.044168,
+    "salary_max": 72800,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Lancashire",
+        "Lancaster",
+        "Moorgate"
+      ],
+      "display_name": "Moorgate, Lancaster"
+    },
+    "salary_min": 58240,
+    "company": {
+      "display_name": "Targeted Provision Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482623?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=9B51A048ECCEEB7880B7C3D36BDE00D5CE1DE688",
+    "id": "5585482623",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTg1NDgyNjIzIn0.8Ju0KsBc25LMozqDGO4s74QAmryzTLZwgFZpWLwaKS4",
+    "longitude": -2.796527,
+    "title": "SLD Tutor"
+  },
+  {
+    "id": "5694657292",
+    "description": "Job Description Operating Department Practitioner/Registered Staff Nurse - Recovery (20 hours | Duchy Hospital, Cornwall) The role At Ramsay Health Care UK, we know our people are our most important asset. Join our Theatre department as a Recovery Nurse/ODP and support on our journey of ‘people caring for people’. You’ll have the best facilities – many of our theatres have laminar airflow systems and state of the art integrated theatre technology. You’ll also have access to the Ramsay Academy, …",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5694657292?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=3E5B5247DD49CBE7E39C9A436268645D703840FD",
+    "company": {
+      "display_name": "Ramsay Health Care",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "salary_min": 36237.11,
+    "location": {
+      "display_name": "Lezant, Launceston",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South West England",
+        "Cornwall",
+        "Launceston",
+        "Lezant"
+      ]
+    },
+    "latitude": 50.583068,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-09T18:59:54Z",
+    "salary_max": 36237.11,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NDY1NzI5MiIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.AvWv1kGlW8dwzFjqZSqhIhqR7ezyNp4aiPWFO1I1Xfg",
+    "title": "Theatre Recovery Nurse/ODP",
+    "longitude": -4.350711,
+    "salary_is_predicted": "1"
+  },
+  {
+    "contract_type": "contract",
+    "longitude": -0.686902,
+    "title": "Make An Uber Account To Drive - Start Earning With The Uber App",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTM4NjMyMyIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.N2THiHT3YsQwRCsWzkLyhUvRPHE5A9jQKTXYXsSjJgA",
+    "salary_is_predicted": "1",
+    "id": "5595386323",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595386323?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=23338687D5709C26F0ED9FD107E006B717D3FE6C",
+    "contract_time": "part_time",
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Travel Jobs",
+      "tag": "travel-jobs"
+    },
+    "company": {
+      "display_name": "Uber",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 38301.69,
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Windsor & Maidenhead",
+        "Maidenhead",
+        "Taplow"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Taplow, Maidenhead"
+    },
+    "salary_max": 38301.69,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.5312,
+    "created": "2026-01-22T13:30:33Z"
+  },
+  {
+    "salary_min": 51764.94,
+    "salary_is_predicted": "1",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs"
+    },
+    "title": "Quantity Surveyor",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Sir Robert McAlpine"
+    },
+    "longitude": -2.950462,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1MDQzMDc5In0.2CLdCzoVQIxs53EkfCoEFZ79H9S-SqMP7QC9uhdQn8w",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 51764.94,
+    "latitude": 51.169519,
+    "created": "2026-05-01T02:14:59Z",
+    "location": {
+      "display_name": "Woolavington, Bridgwater",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South West England",
+        "Somerset",
+        "Bridgwater",
+        "Woolavington"
+      ]
+    },
+    "id": "5715043079",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715043079?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=8109179A6E76AA842E5813505A0C8C54C6EC882C",
+    "description": "Sir Robert McAlpine has secured a prestigious contract to construct a state-of-the-art Battery Manufacturing Facility. The initial phase of the project includes the design and construction of a new 15GWh lithium-ion battery facility, ancillary buildings, and site-wide external works Why Join Us Since 1869 we've worked on building and civil engineering projects that have set the standard for others to follow - right up to present-day examples like the Eden Project, Olympic Stadium, and award-win…"
+  },
+  {
+    "salary_min": 12,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Logistics & Warehouse Jobs",
+      "tag": "logistics-warehouse-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ocado Logistics"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:15:28Z",
+    "latitude": 51.467056,
+    "salary_max": 12,
+    "location": {
+      "area": [
+        "UK",
+        "Eastern England",
+        "Essex",
+        "Tilbury",
+        "West Tilbury"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "West Tilbury, Tilbury"
+    },
+    "id": "5715045865",
+    "contract_time": "full_time",
+    "description": "Pick a career packed with opportunities. Join Ocado Logistics today! As a Warehouse Operative for Ocado Logistics, you are at the heart of preparing orders for customers. Join our warehouse in Purfleet where you'll be working in a state-of-the-art facility preparing orders for customers. We have a variety of areas and shift options available and you can plan your work-life balance with our core roster. Receive your work pattern 6 - 13 weeks in advance giving you bags of time to plan time with y…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715045865?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=9AE3637CE60116950944F71F6CC5115C94674D82",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN2xFalNVTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1MDQ1ODY1In0.675td_Jwm8JMnRSK13MbWmE41sIWkAnt0k-al9HlzOo",
+    "longitude": 0.37504,
+    "title": "Days Warehouse Operative - Purfleet"
+  },
+  {
+    "longitude": -0.349612,
+    "title": "Mobile Vehicle Technician - Milton Keynes",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYxNTc4OTQ0MyIsInMiOiI3bEVqU1VORjhSR3BJT1ZRYmRncVlRIn0.nGgDylkGZsT0OVIOA4as1tW-5tBZOJTBEQU3JJuCJEQ",
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "West Sussex",
+        "Lancing",
+        "Sompting"
+      ],
+      "display_name": "Sompting, Lancing"
+    },
+    "created": "2026-02-05T17:38:29Z",
+    "latitude": 50.825107,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 44385,
+    "category": {
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "RAC"
+    },
+    "salary_min": 40170,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5615789443?se=7lEjSUNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=1F16984A474B6B826C33D4B713FB5F7DB6371B76",
+    "contract_time": "full_time",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £40,170, with on-target earnings of up to £52,000 A guaranteed overtime option to increase your base salary, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm, and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for roadside rescue - but this isn’t that. Our Service, Maintenance & Repa…",
+    "id": "5615789443"
+  }
+]

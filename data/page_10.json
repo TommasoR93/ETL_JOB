@@ -1,0 +1,1690 @@
+[
+  {
+    "location": {
+      "display_name": "London, UK",
+      "area": [
+        "UK",
+        "London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "category": {
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs"
+    },
+    "description": "Credit Manager *Insurance* Your new company: A leading London-based insurance group with a strong reputation for financial stability, innovation, and client-centric service. The business operates across multiple specialty lines and is known for its collaborative culture, modern approach to risk, and commitment to developing its people. As the company continues to grow, it is strengthening its credit risk function to support sustainable expansion across UK and international markets. Your new rol…",
+    "salary_min": 45639.2,
+    "latitude": 51.503378,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "created": "2026-02-24T10:27:19Z",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NjQzNDM5Nzk5In0.wmUgQ0G0e2UPnVORvxkxoZmWmdbOIxZ0itjeHQPZezc",
+    "salary_max": 45639.2,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643439799?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=F04330CD420FC7E82AD97E2724BC74FC9BD62D83",
+    "longitude": -0.139134,
+    "title": "Credit Manager",
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5643439799"
+  },
+  {
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyMDE2NyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.aWpspUx9P09MnC07KGSFLL4hsc0rsX4DiGtEEw0yKjM",
+    "salary_max": 48310.96,
+    "longitude": 1.75364,
+    "title": "Plasterer (Self-Employed)",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5201420167",
+    "location": {
+      "area": [
+        "UK",
+        "Eastern England",
+        "Suffolk",
+        "Lowestoft"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lowestoft, Suffolk"
+    },
+    "description": "Plasterer Wanted in Lowestoft – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Plastering jobs in Lowestoft? We connect skilled, self‑employed Plasterers with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availability and experti…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "created": "2025-05-16T09:50:54Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201420167?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=D40AC520FC8C0877DEA05EF4C13740B215FF8753",
+    "latitude": 52.474701,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    },
+    "salary_min": 48310.96
+  },
+  {
+    "salary_min": 52362.89,
+    "description": "Interim Management Accountant - Rotherham- ASAP Start - Office based Your new company As a Management Accountant, you’ll play a key rolein delivering accurate financial reporting, insightful analysis, and supportingstrategic decision-making across the business. This is a fantastic opportunityto work closely with senior stakeholders and make a real impact. Reporting intothe Head of Finance, you will play a key part in providing continuity withinthe finance function and driving business growth. F…",
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs"
+    },
+    "latitude": 53.430199,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Rotherham, South Yorkshire",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Yorkshire And The Humber",
+        "South Yorkshire",
+        "Rotherham"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643439812?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=46879B1C75F17521BD76077E7E5B5B8CF78B8505",
+    "created": "2026-02-24T10:27:19Z",
+    "salary_is_predicted": "1",
+    "salary_max": 52362.89,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MzQzOTgxMiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.tBNe5GEr-Az4YClpYup1Qs-Zl5WFuc8YPr6WE10K5iM",
+    "id": "5643439812",
+    "longitude": -1.3569,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "title": "Interim Management Accountant"
+  },
+  {
+    "created": "2025-05-16T09:50:46Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201418367?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=A6CE807FB8403090131A3D5B5FBF9EB3008E4DA6",
+    "salary_min": 43036.24,
+    "latitude": 51.2141,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Painter & Decorator (Self-Employed)",
+    "longitude": -0.795706,
+    "id": "5201418367",
+    "salary_max": 43036.24,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQxODM2NyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.AqJU-D5lpAggMsHygKfyZ5-rv3IxJoXnmGaMx3qadTM",
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Surrey",
+        "Farnham"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Farnham, Surrey"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Painter & Decorator Wanted in Farnham – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Painting and Decorating jobs in Farnham? We connect skilled, self‑employed Painters and/or Decorators with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that…"
+  },
+  {
+    "salary_min": 41534.6,
+    "latitude": 53.5443,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201421277?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=179DE8B8B42BBDBBAE46369296D194F5C23E2DDA",
+    "created": "2025-05-16T09:50:59Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Bathroom Fitter Wanted in Wigan – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Bathroom Fitting jobs in Wigan? We connect skilled, self‑employed Bathroom Fitters with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availability a…",
+    "location": {
+      "display_name": "Wigan, Greater Manchester",
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Wigan"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5201421277",
+    "title": "Bathroom Fitter (Self-Employed)",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -2.63106,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDIxMjc3In0.neOHnGI3eXeqXsWs3j5S_x8lJH5vGwNlz_WZbFjIYMs",
+    "salary_max": 41534.6,
+    "salary_is_predicted": "1"
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    },
+    "latitude": 53.202702,
+    "salary_min": 43955.43,
+    "created": "2025-05-16T09:50:41Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201417426?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=DD890BCD45BB21FF73A90B4E909A11C05ADF2071",
+    "location": {
+      "area": [
+        "UK",
+        "Wales",
+        "Flintshire",
+        "Deeside"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Deeside, Flintshire"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Plumber Wanted in Deeside – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Plumbing jobs in Deeside? We connect skilled, self‑employed Plumbers with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availability and expertise. Consis…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Plumber (Self-Employed)",
+    "longitude": -3.03035,
+    "id": "5201417426",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQxNzQyNiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.7k6c3aGvf9nhACrnXNtlCoDFYz6hzFnJ3qTjl_-C_0Y",
+    "salary_max": 43955.43,
+    "salary_is_predicted": "1"
+  },
+  {
+    "salary_min": 49266.54,
+    "latitude": 50.833698,
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "created": "2025-05-16T09:50:18Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201411768?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=C7C375E2190E1F52879C8B56ECAC436D398FBB82",
+    "location": {
+      "display_name": "Sompting, Lancing",
+      "area": [
+        "UK",
+        "South East England",
+        "West Sussex",
+        "Lancing",
+        "Sompting"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "Are you a skilled Self-Employed Kitchen Fitter looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Educa…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "longitude": -0.338387,
+    "title": "Kitchen Fitter (Self-Employed)",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5201411768",
+    "salary_is_predicted": "1",
+    "salary_max": 49266.54,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQxMTc2OCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.CLm9K8jr2TeYH7Ik4Pdiq9bV_2a-s-PiPjzSU0XEQ9s"
+  },
+  {
+    "salary_min": 34167.48,
+    "latitude": 51.988602,
+    "category": {
+      "tag": "travel-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Travel Jobs"
+    },
+    "contract_time": "part_time",
+    "created": "2026-01-22T13:30:24Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5595384452?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=1D86EE0C0F2FE88011DF19E17384E1BB4F2EBA9B",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Buckinghamshire",
+        "Milton Keynes",
+        "Woburn"
+      ],
+      "display_name": "Woburn, Milton Keynes"
+    },
+    "description": "What is Uber? Driving with Uber offers a flexible earning opportunity. It’s a great alternative to full-time driver jobs, part-time driver jobs or other part-time gigs, temp jobs or seasonal employment. Or maybe you’re already using other rideshare apps and want to supplement your income by becoming a driver using the Uber platform. Why Drive With Uber?: Receive your earnings fast: With Uber, you can pocket your earnings up to 5 times a day. Minimum earnings guaranteed: Earn at least the Nation…",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "longitude": -0.619027,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Uber"
+    },
+    "title": "Driving For Cash? Sign Up To Drive With Uber And Earn Flexibly Instead",
+    "id": "5595384452",
+    "salary_is_predicted": "1",
+    "salary_max": 34167.48,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NTM4NDQ1MiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.pi8fj9QU51bkjFBx6ZOqYftzwnoKhcuu22qAuusWnqk"
+  },
+  {
+    "location": {
+      "display_name": "Crewe, Cheshire",
+      "area": [
+        "UK",
+        "North West England",
+        "Cheshire",
+        "Crewe"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Plasterer Wanted in Crewe – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Plastering jobs in Crewe? We connect skilled, self‑employed Plasterers with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availability and expertise. Cons…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyMDIxNyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.BbRLlwH2ClIh1f4yEhxndTX-zat-_2QYWz90emK6snY",
+    "salary_max": 46422.29,
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Plasterer (Self-Employed)",
+    "longitude": -2.44177,
+    "id": "5201420217",
+    "latitude": 53.0951,
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "salary_min": 46422.29,
+    "created": "2025-05-16T09:50:54Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201420217?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=CCED7323F12BF6C2706B3099016918BCD9FBD56B"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyNDgwNiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.kEwM1p3zn9MbapPjQXFxDQ1FOCbnAZeZsRnzEE4QBB4",
+    "salary_max": 38384.3,
+    "salary_is_predicted": "1",
+    "title": "Decorator (Self-Employed)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "longitude": -1.31443,
+    "id": "5201424806",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North East England",
+        "County Durham",
+        "Stockton-On-Tees"
+      ],
+      "display_name": "Stockton-On-Tees, County Durham"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Decorator Wanted in Stockton-On-Tees – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Decorating jobs in Stockton-On-Tees? We connect skilled, self‑employed Decorators with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availabili…",
+    "created": "2025-05-16T09:51:16Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201424806?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=66DE838F030CF1873D9C686F026C81C38FB08737",
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "salary_min": 38384.3,
+    "latitude": 54.568199
+  },
+  {
+    "longitude": -3.458722,
+    "title": "Tiler (Self-Employed)",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5201410820",
+    "salary_is_predicted": "1",
+    "salary_max": 52778.66,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDEwODIwIn0.3s1PJkV1HiuRMjXSXaqYy-e8VIpEagBjTX1NYw3rkAs",
+    "location": {
+      "area": [
+        "UK",
+        "Wales",
+        "The Vale of Glamorgan"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "The Vale of Glamorgan, Wales"
+    },
+    "description": "Are you a skilled Self-Employed Tiler looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education, Ski…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "created": "2025-05-16T09:50:14Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201410820?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=B87D0D9450D11DD19A8F7302539C5A52BAA1A98A",
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "salary_min": 52778.66,
+    "latitude": 51.51836
+  },
+  {
+    "location": {
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Manchester"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Manchester, Greater Manchester"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "salary_min": 39218.29,
+    "description": "Kitchen Fitter Wanted in Greater Manchester – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Kitchen Fitting jobs in Greater Manchester? We connect skilled, self‑employed Kitchen Fitters with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that s…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Kitchen Fitter (Self-Employed)",
+    "id": "5201420755",
+    "salary_max": 39218.29,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDIwNzU1In0.vizFSAMBnpQMCFPLWqhRAMFCVf2MaeOEc0u0zTfP_tM",
+    "salary_is_predicted": "1",
+    "created": "2025-05-16T09:50:57Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201420755?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=CACAEB1EA4CEF81BF8B5F1A23C73436E859D25C7"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Hayes",
+        "Harlington"
+      ],
+      "display_name": "Harlington, Hayes"
+    },
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your occupational therapy career- All whilst working within a friendly multidisciplinary team in a rewarding education setting? Do you want to have opportunities to participate in research projects, special interest groups and form part of a wider occupational therapy network that meets regularly for training & development? Do you want to have flexibility and be able to work creatively to deliver speci…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "permanent",
+    "salary_is_predicted": "0",
+    "salary_max": 53200,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMTg2MjcxMCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.0z4LU6sI6Lq7_6nustFtbKdpJOsMUKgFi9FtQGp6j7o",
+    "longitude": -0.42425,
+    "title": "Specialist Occupational Therapist",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Outcomes First Group"
+    },
+    "id": "5711862710",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 51.505146,
+    "salary_min": 0,
+    "created": "2026-04-27T16:20:11Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5711862710?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=ED979CB1C6A99F6F79A614519CB37EB3E08E3480",
+    "contract_time": "full_time"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201427412?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=F9A52ABD6B869D207BA992F7AFCD89038C4C198D",
+    "created": "2025-05-16T09:51:29Z",
+    "latitude": 53.444162,
+    "salary_min": 44403.38,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "id": "5201427412",
+    "longitude": -2.897456,
+    "title": "Painter & Decorator (Self-Employed)",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyNzQxMiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.jji7bXDR520oYRapdOpHC9-cY9QktaB4R56_xeQqkz8",
+    "salary_max": 44403.38,
+    "description": "Painter & Decorator Wanted in Merseyside – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Painter & Decorator looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Painters & Decorators like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consiste…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "location": {
+      "display_name": "Merseyside, North West England",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Merseyside"
+      ]
+    }
+  },
+  {
+    "id": "5715041680",
+    "longitude": -1.09116,
+    "title": "Design Engineer – Electrical",
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041680?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=E45DB27E358E7392D736C1DE0CE6EB6248652DCC",
+    "created": "2026-05-01T02:14:46Z",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NzE1MDQxNjgwIn0.lt76MUeBLxM4PQP5-T-M_fsGImgr40RlVvYpJWY42KY",
+    "salary_max": 39368.48,
+    "category": {
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs"
+    },
+    "description": "Job Title: Electrical Design Engineer Location: Portsmouth Naval Base, Onsite We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: Up to £43,500 dependent on skills and experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect what matters most. Y…",
+    "latitude": 50.798901,
+    "salary_min": 39368.48,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Portsmouth, Hampshire",
+      "area": [
+        "UK",
+        "South East England",
+        "Hampshire",
+        "Portsmouth"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    }
+  },
+  {
+    "latitude": 51.678361,
+    "salary_min": 58240,
+    "category": {
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Teaching Jobs"
+    },
+    "created": "2026-01-26T17:42:18Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5601011914?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=9D7FF12D862846714A07B97DFF3F665E49FEEBFB",
+    "contract_time": "part_time",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Buckinghamshire",
+        "Amersham",
+        "Chesham Bois"
+      ],
+      "display_name": "Chesham Bois, Amersham"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NjAxMDExOTE0In0.7MDIRl3eFP925wO27o_6OpOeGvXlNxURMH2cuXSJcVA",
+    "salary_max": 72800,
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    },
+    "title": "SEN / SEND Tutor, Buckinghamshire",
+    "longitude": -0.599939,
+    "id": "5601011914"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "An outstanding independent accountancy practice in Lancashire is seeking an Audit Director. Your new company An outstanding independent accountancy practice in Lancashire is seeking an ambitious and commercially minded Audit Director to join its senior leadership team. This progressive and highly regarded firm has built a reputation for delivering exceptional audit, assurance, and advisory services to a diverse client base, including entrepreneurial SMEs, established corporates, and not-for-pro…",
+    "latitude": 53.864322,
+    "category": {
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 69437.87,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Lancashire"
+      ],
+      "display_name": "Lancashire, North West England"
+    },
+    "id": "5654784271",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "title": "Audit Director",
+    "longitude": -2.613864,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5654784271?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=1FEEC712E22EAED9EAB4C4742F59528DDD8797FC",
+    "salary_max": 69437.87,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1NDc4NDI3MSIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.FWfppBF37ClmDz_wupahC_P8e7Rdhhk5v8NO7E6XTZA",
+    "salary_is_predicted": "1",
+    "created": "2026-03-05T08:15:27Z"
+  },
+  {
+    "salary_is_predicted": "1",
+    "salary_max": 46672.29,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQxMDkyNiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.SXLNZMjft-0DO7bQgtDWiSlGQoHuMQUfsn3E8Bj0Wb8",
+    "longitude": -0.538436,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Plasterer (Self-Employed)",
+    "id": "5201410926",
+    "location": {
+      "display_name": "Lincoln, Lincolnshire",
+      "area": [
+        "UK",
+        "East Midlands",
+        "Lincolnshire",
+        "Lincoln"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "description": "Are you a skilled Self-Employed Plasterer looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education,…",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2025-05-16T09:50:14Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201410926?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=9B660D8E49B33D8203FFC0734C088419D72D14CF",
+    "salary_min": 46672.29,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "latitude": 53.234901
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NzA5OTQ2MDAxIn0.0y_04-3K0kDI_-KX8Xtsv0EVIkSwcqQbhCLa54YFkVg",
+    "salary_max": 42000,
+    "salary_is_predicted": "0",
+    "company": {
+      "display_name": "KFC UK",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Store Manager",
+    "longitude": 0.764064,
+    "id": "5709946001",
+    "location": {
+      "display_name": "Sheerness, Kent",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Sheerness"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Restaurant general manager Welcome to KFC. Home of the real ones. We sell the world’s best chicken. We’ve done it for a long old time — since 1939, when the idea of finger lickin’ good chicken popped into our Colonel’s head. Now, we proudly serve 1000 communities across the UK and Ireland, bringing the grit, pride and iconic reputation that started in Kentucky all those years ago. People who are original. Individual. Fresh. We come to work to be ourselves, and to make something of ourselves. We…",
+    "created": "2026-04-25T03:30:03Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5709946001?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=2DF580D72B93A5A4699383774B51C2D068FDAD88",
+    "contract_time": "full_time",
+    "latitude": 51.440201,
+    "category": {
+      "tag": "retail-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Retail Jobs"
+    },
+    "salary_min": 38000
+  },
+  {
+    "category": {
+      "label": "Customer Services Jobs",
+      "tag": "customer-services-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 28515.84,
+    "latitude": 54.596471,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5163267229?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=6707C69B60101067265DBA04217E3356A5B7392B",
+    "created": "2025-04-26T02:27:28Z",
+    "contract_time": "full_time",
+    "description": "Looking for a permanent, rewarding role in Belfast City Centre that fits around your life and saves you money? We're hiring Financial Services Contact Centre Agents to join our supportive, fast paced customer service team. Why work with us? £27,976.00 annual salary Save on commuting costs with only 2 days in the office each week once you have successfully completed 3 weeks training and 4 week grad bay (training and grad bay will be fully office based) Cut down on daily expenses - less spent on …",
+    "contract_type": "permanent",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Northern Ireland",
+        "Belfast",
+        "Ormeau"
+      ],
+      "display_name": "Ormeau, Belfast"
+    },
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE2MzI2NzIyOSIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.7oK5xRwC4lTYBjA6UXACU-bJ3K0GQMoFk2RuP4uPJ0Y",
+    "salary_max": 28515.84,
+    "id": "5163267229",
+    "longitude": -5.928361,
+    "title": "Customer Service Advisor",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Teleperformance"
+    }
+  },
+  {
+    "latitude": 51.270302,
+    "salary_min": 50106.93,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "contract_time": "full_time",
+    "created": "2026-02-24T10:27:13Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643438629?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=B321E10BF8AD4E2336738E1D474D2576F61E0ACC",
+    "location": {
+      "display_name": "Maidstone, Kent",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Maidstone"
+      ]
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Site Manager - Housing Development Site Manager - Housing Development Location: Maidstone, Kent Job Type: Full-Time | Temporary Salary: Competitive  Car Allowance  Bonus Start Date: ASAP Are you an experienced Site Manager with a passion for delivering high-quality homes? We’re looking for a driven and detail-oriented Site Manager to lead residential construction projects from the ground up, ensuring every home is built to the highest standards.  About the Role:As Site Manager, you’ll take full…",
+    "company": {
+      "display_name": "Hays",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Maidstone Site Manager Housing",
+    "longitude": 0.523841,
+    "id": "5643438629",
+    "salary_max": 50106.93,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MzQzODYyOSIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0._dseFTJ3xP96MESOruR7quDZ6YlVBtUGZFUFB-kRtCk",
+    "salary_is_predicted": "1"
+  },
+  {
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Buckinghamshire",
+        "Great Missenden",
+        "Lee Gate"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lee Gate, Great Missenden"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £40,170, with on-target earnings of up to £52,000 A guaranteed overtime option to increase your base salary, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm, and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for roadside rescue - but this isn’t that. Our Service, Maintenance & Repa…",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NDkxMTE3NDg5In0.dMQTA4tGomtKXLB6RcW_Lvb3ZxKmY9RGxmQFBtC7GJc",
+    "salary_max": 44385,
+    "salary_is_predicted": "0",
+    "title": "Mobile Vehicle Technician",
+    "company": {
+      "display_name": "RAC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -0.698249,
+    "id": "5491117489",
+    "salary_min": 40170,
+    "latitude": 51.737096,
+    "category": {
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs"
+    },
+    "created": "2025-11-11T20:11:24Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5491117489?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=A0D2BED6B2F12D1AA6563CDF1CFAE7A2ADE5D2EB",
+    "contract_time": "full_time"
+  },
+  {
+    "id": "5201420939",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Kitchen Fitter (Self-Employed)",
+    "longitude": -4.79391,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDIwOTM5In0.ym2igw-aCyfGTeDZNZuoqLJhg3WVpfKes20ccPOyhjk",
+    "salary_max": 41049.1,
+    "salary_is_predicted": "1",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Kitchen Fitter Wanted in St. Austell – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Kitchen Fitting jobs in St. Austell? We connect skilled, self‑employed Kitchen Fitters with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your avail…",
+    "location": {
+      "area": [
+        "UK",
+        "South West England",
+        "Cornwall",
+        "St. Austell"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "St. Austell, Cornwall"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201420939?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=475CD37B1C69E32D20B1DF52011C4473B1374026",
+    "created": "2025-05-16T09:50:57Z",
+    "salary_min": 41049.1,
+    "latitude": 50.337601,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    }
+  },
+  {
+    "id": "5201408236",
+    "longitude": -2.16159,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Plumber (Self-Employed)",
+    "salary_is_predicted": "1",
+    "salary_max": 47925.4,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQwODIzNiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.GiYeAuwwio9q_mBwuOSxiHOAdy5-B8RvGdYR6dBDbw8",
+    "description": "Are you a skilled Self-Employed Plumber looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education, S…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "location": {
+      "display_name": "Blandford Forum, Dorset",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South West England",
+        "Dorset",
+        "Blandford Forum"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201408236?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=C8DDA62FEC48B24F875FD240229A9EE9EDB9A792",
+    "created": "2025-05-16T09:50:04Z",
+    "salary_min": 47925.4,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 50.860802
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyOTcwNyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.7_hjv7q7EYOCyd3YzqBjJWt_IIOeDoWBUfLZT3tRidM",
+    "salary_max": 56009.64,
+    "salary_is_predicted": "1",
+    "title": "Plasterer (Self-Employed)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "longitude": -1.47822,
+    "id": "5201429707",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "West Midlands",
+        "Warwickshire",
+        "Nuneaton",
+        "Bermuda Park"
+      ],
+      "display_name": "Bermuda Park, Nuneaton"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Plasterer Wanted in Bermuda Park – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Plasterer looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Plasterers like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consistent Work – Get access to job l…",
+    "created": "2025-05-16T09:51:40Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201429707?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=1E2DA6FD32A5621CEE62C9ADAC92897E7F07CDC6",
+    "salary_min": 56009.64,
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "latitude": 52.498798
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "Hospitality & Catering Jobs",
+      "tag": "hospitality-catering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "description": "Description Working as a chef at Butlin’s gives you the opportunity to provide an amazing experience to our guests, wherever they choose to dine on our resorts. We offer a wide range of eateries including our onsite pub, buffets restaurants, an American Diner, our chicken restaurant and very own Papa John's pizzaria with menus designed to excite our guests. We truly believe that variety is the spice of life and in these roles, you’ll have the opportunity to develop and perfect your skills in a …",
+    "latitude": 50.809318,
+    "salary_min": 28080,
+    "location": {
+      "display_name": "Langford, Cullompton",
+      "area": [
+        "UK",
+        "South West England",
+        "Devon",
+        "Cullompton",
+        "Langford"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5662926935",
+    "title": "Chef Opportunities",
+    "company": {
+      "display_name": "Butlin's",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -3.391006,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5662926935?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=C3B3CCBB7BF8F4C11A5A34987F37698D6EC404CC",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NjYyOTI2OTM1In0.lEiw-nCR72rgDtoVDY8Pmvouhcrs4crM7m2W6xGGKRc",
+    "salary_max": 29120,
+    "salary_is_predicted": "0",
+    "created": "2026-03-12T21:19:47Z"
+  },
+  {
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "salary_min": 49072.12,
+    "latitude": 51.465,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201411034?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=3A0569FF0B9F622E5681FC238DEF9BAAC801B917",
+    "created": "2025-05-16T09:50:15Z",
+    "description": "Are you a skilled Self-Employed Plasterer looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education,…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "location": {
+      "display_name": "Clapham Junction, South West London",
+      "area": [
+        "UK",
+        "London",
+        "South West London",
+        "Clapham Junction"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5201411034",
+    "longitude": -0.170524,
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Plasterer (Self-Employed)",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQxMTAzNCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.g2WQBhj4DLcVZDaCd9VQd5ymq4LEho2UFqrH9W6VPsY",
+    "salary_max": 49072.12
+  },
+  {
+    "id": "5643439038",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "title": "Project Manager - Civils Contracting",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5643439038?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=550B3ADA7EA91F623EC09440A9022A2793F8E5CC",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MzQzOTAzOCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.moMxYs37O_01w4bf8eBEIOxu9alXshAXK3A4s421X5c",
+    "salary_max": 49756.46,
+    "salary_is_predicted": "1",
+    "created": "2026-02-24T10:27:15Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Tier 1 Civils Contractor looking for Project Manager on a prestigious contract on the West coast of Scotland Project Manager - Civils Our client is a Tier 1 Civils Contractor growing their business in Scotland - they have picked up several £multi-million projects across Scotland. As their business continues to grow, they are looking for dedicated civils Project Managers who want to join their team in Scotland across these high value projects. Why join them? • Exciting Projects - Work on varied …",
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 49756.46,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK"
+      ],
+      "display_name": "UK"
+    }
+  },
+  {
+    "latitude": 52.647999,
+    "salary_min": 43836.29,
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "created": "2025-05-16T09:50:35Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201415929?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=4A77272FBD8688145F4F5D1BAD4F5EC1426F553D",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "West Midlands",
+        "Shropshire",
+        "Telford"
+      ],
+      "display_name": "Telford, Shropshire"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Are you a skilled Self-Employed Decorator looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education,…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Decorator (Self-Employed)",
+    "longitude": -1.7081,
+    "id": "5201415929",
+    "salary_max": 43836.29,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDE1OTI5In0.HYcdW0fm1SvNMpX9ERiqqOd3Ia3qp95yKwxajRyshr8",
+    "salary_is_predicted": "1"
+  },
+  {
+    "salary_min": 52352.5,
+    "latitude": 51.5788,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    },
+    "created": "2025-05-16T09:50:52Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201419668?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=3A771FFD7FFA3B06E9317EBB5ACA4BDC21481047",
+    "location": {
+      "area": [
+        "UK",
+        "London",
+        "Harrow"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Harrow, London"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Tiler Wanted in Harrow – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Tiling jobs in Harrow? We connect skilled, self‑employed Tilers with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availability and expertise. Consistent Job…",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Tiler (Self-Employed)",
+    "longitude": -0.33376,
+    "id": "5201419668",
+    "salary_max": 52352.5,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQxOTY2OCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.MCfRluRcflauAPijnZKM26DmfQnh-Gq1YnfkshM_38k",
+    "salary_is_predicted": "1"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDI5NjgxIn0.U4X2XoZpWR29MuzLgW54-UP0LJ3a331OqTpVb2ECWKI",
+    "salary_max": 48625.04,
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Plasterer (Self-Employed)",
+    "longitude": -2.13773,
+    "id": "5201429681",
+    "location": {
+      "display_name": "Tewkesbury, Gloucestershire",
+      "area": [
+        "UK",
+        "South West England",
+        "Gloucestershire",
+        "Tewkesbury"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Plasterer Wanted in Tewkesbury – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Plasterer looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Plasterers like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consistent Work – Get access to job lea…",
+    "created": "2025-05-16T09:51:40Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201429681?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=1600B2909DC7ED69928EB9A0AAFCB3CA249C8CDF",
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 48625.04,
+    "latitude": 51.995899
+  },
+  {
+    "contract_time": "full_time",
+    "created": "2026-04-10T16:08:44Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5695740299?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=9EEDF9F121226EBBC9AA6A158926A6B597186467",
+    "salary_min": 40170,
+    "latitude": 52.598819,
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "RAC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Mobile Vehicle Technician - West Midlands",
+    "longitude": -2.059273,
+    "id": "5695740299",
+    "salary_max": 44385,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NTc0MDI5OSIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.85CvyD9tPXYrO3hnY0WvF35r6PW3xCQUvSWovbvKzP4",
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Willenhall, West Midlands",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "West Midlands",
+        "Willenhall"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £40,170, with on-target earnings of up to £52,000 A guaranteed overtime option to increase your base salary, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm, and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for roadside rescue - but this isn’t that. Our Service, Maintenance & Repa…"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201429892?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=388DA42AFE3F533EAB1A1EE928290927E9EF0198",
+    "created": "2025-05-16T09:51:41Z",
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "salary_min": 44279.73,
+    "latitude": 55.028274,
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyOTg5MiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.fGXysKnZf5ztjAaXkWrrfEyEJ1BPc0KEA5lpdbkmYTY",
+    "salary_max": 44279.73,
+    "id": "5201429892",
+    "longitude": -1.746207,
+    "title": "Kitchen Fitter (Self-Employed)",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "description": "Kitchen Fitter Wanted in Newcastle Upon Tyne – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Kitchen Fitter looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Kitchen Fitters like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consistent Work…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "location": {
+      "area": [
+        "UK",
+        "North East England",
+        "Tyne & Wear",
+        "Newcastle Upon Tyne"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Newcastle Upon Tyne, Tyne & Wear"
+    }
+  },
+  {
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    },
+    "latitude": 51.690935,
+    "salary_min": 52332.29,
+    "created": "2025-05-16T09:51:40Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201429710?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=B775E3C8C3270C311F49FF26A641ADF14B7A17D3",
+    "location": {
+      "display_name": "Torfaen, Wales",
+      "area": [
+        "UK",
+        "Wales",
+        "Torfaen"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Plasterer Wanted in Torfaen – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Plasterer looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Plasterers like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consistent Work – Get access to job leads …",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyOTcxMCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.4YVJEXpjzhymEkS7UlQUAexkCSUtdvYRETUM4TpgdSE",
+    "salary_max": 52332.29,
+    "salary_is_predicted": "1",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Plasterer (Self-Employed)",
+    "longitude": -3.039646,
+    "id": "5201429710"
+  },
+  {
+    "location": {
+      "display_name": "Oswestry, Shropshire",
+      "area": [
+        "UK",
+        "West Midlands",
+        "Shropshire",
+        "Oswestry"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Kitchen Fitter Wanted in Oswestry – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Kitchen Fitting jobs in Oswestry? We connect skilled, self‑employed Kitchen Fitters with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availabilit…",
+    "title": "Kitchen Fitter (Self-Employed)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "longitude": -3.05368,
+    "id": "5201421027",
+    "salary_max": 37484.22,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyMTAyNyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.TYCNeFpGS7btZy2DXQjdBOIKlOUd6IjRaBzwyWVVqro",
+    "salary_is_predicted": "1",
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 52.859901,
+    "salary_min": 37484.22,
+    "created": "2025-05-16T09:50:58Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201421027?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=23DEDD41C18CC6DBF4400B4D118698AF8E60FE35"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201408227?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=C1F7E4430BBB153A80A95845861E03C1E7E81AAD",
+    "created": "2025-05-16T09:50:04Z",
+    "latitude": 50.733799,
+    "salary_min": 47388.56,
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "id": "5201408227",
+    "longitude": -1.77602,
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Plumber (Self-Employed)",
+    "salary_is_predicted": "1",
+    "salary_max": 47388.56,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQwODIyNyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.eeCF6YkdRimjDR6eFVbQ5mHF8LReEttbntHnichRumY",
+    "description": "Are you a skilled Self-Employed Plumber looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education, S…",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South West England",
+        "Dorset",
+        "Christchurch"
+      ],
+      "display_name": "Christchurch, Dorset"
+    }
+  },
+  {
+    "description": "Kitchen Fitter Wanted in Brentwood – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Kitchen Fitting jobs in Brentwood? We connect skilled, self‑employed Kitchen Fitters with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availabil…",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Brentwood, Essex",
+      "area": [
+        "UK",
+        "Eastern England",
+        "Essex",
+        "Brentwood"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_is_predicted": "1",
+    "salary_max": 40869.03,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDIwNjM3In0.LCaqQunR3ExVvy85lIoaiDm-8pi8kh5TE7tWEFIZoB4",
+    "id": "5201420637",
+    "longitude": 0.305749,
+    "title": "Kitchen Fitter (Self-Employed)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "salary_min": 40869.03,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "latitude": 51.621399,
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201420637?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=0856CCCD85EF7BED7521BBA38E4418D35792A14D",
+    "created": "2025-05-16T09:50:56Z"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTA0NTAwMiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.eorww2kRylG-YJMoPVsLKAL_jWYtHlTWQKwHLLqfrlI",
+    "salary_max": 44556.51,
+    "created": "2026-04-14T14:09:46Z",
+    "salary_is_predicted": "1",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5699045002?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=46C9AE7B220097C871AD5B3AE62CD79A6A130601",
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Senior Commercial Manager",
+    "longitude": -3.175876,
+    "id": "5699045002",
+    "location": {
+      "display_name": "Chapels, Kirkby-In-Furness",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Cumbria",
+        "Kirkby-In-Furness",
+        "Chapels"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_min": 44556.51,
+    "description": "Job Title: Senior Commercial Manager Location: Barrow-in-Furness We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: From £60,350 depending on skills and experience plus executive car allowance and bonus on top Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress …",
+    "category": {
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs"
+    },
+    "latitude": 54.239544
+  },
+  {
+    "location": {
+      "display_name": "Wytham, Oxford",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Oxfordshire",
+        "Oxford",
+        "Wytham"
+      ]
+    },
+    "description": "Are you a skilled Self-Employed Tiler looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education, Ski…",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_is_predicted": "1",
+    "salary_max": 49061.45,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDEwNzE5In0.IJnshU1Z6BcfH91AcUmHh9XVNVYGasA10dYIl-HfaII",
+    "longitude": -1.31196,
+    "title": "Tiler (Self-Employed)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "id": "5201410719",
+    "latitude": 51.775101,
+    "salary_min": 49061.45,
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "created": "2025-05-16T09:50:14Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201410719?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=740AD08F23B829C7A2B5E156F062D71DA3C38917"
+  },
+  {
+    "contract_time": "part_time",
+    "created": "2026-01-15T02:27:45Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482353?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=EEA3BB4B5A752E411B0DAC5A285393761FC6484D",
+    "category": {
+      "label": "Teaching Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "teaching-jobs"
+    },
+    "salary_min": 58240,
+    "latitude": 50.838915,
+    "company": {
+      "display_name": "Targeted Provision Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "SEND Teacher",
+    "longitude": -0.771472,
+    "id": "5585482353",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NTg1NDgyMzUzIn0.XN26Oj3XajF_6lD4RRL0fKlg6ehzfjeIf_49ByHRCd0",
+    "salary_max": 72800,
+    "salary_is_predicted": "0",
+    "location": {
+      "display_name": "Kingsham, Chichester",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "West Sussex",
+        "Chichester",
+        "Kingsham"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…"
+  },
+  {
+    "location": {
+      "display_name": "Glasgow, Scotland",
+      "area": [
+        "UK",
+        "Scotland",
+        "Glasgow"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Business Development Manager for Leading Main Contractor in Scotland. Business Development Manager Tier 1 / Tier 2 Contractor | Glasgow Full-time or Part-time (3 days per week considered) Your new company Our client is a busy and well-established Tier 1 / Tier 2 construction contractor with a strong and growing presence across the Scottish market. They deliver a diverse portfolio of projects across multiple sectors and are recognised for their quality, reliability and long-term client relations…",
+    "title": "Business Development Manager",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "longitude": -4.25596,
+    "id": "5707341866",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzM0MTg2NiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.GlG94XfkEhztwgY3R2FtDmrNNle4GwgWtfnF8JeGiuo",
+    "salary_max": 53740.59,
+    "salary_is_predicted": "1",
+    "category": {
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs"
+    },
+    "latitude": 55.86026,
+    "salary_min": 53740.59,
+    "contract_time": "part_time",
+    "created": "2026-04-22T19:07:33Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707341866?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=816AED827657C445C2EB6EC7F4B2768C2AAF24B6"
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201420542?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=D170F65225B88212890A9D3903750051ED1DB516",
+    "created": "2025-05-16T09:50:56Z",
+    "latitude": 52.192001,
+    "salary_min": 46259.3,
+    "category": {
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Trade & Construction Jobs"
+    },
+    "id": "5201420542",
+    "longitude": -2.22353,
+    "title": "Plasterer (Self-Employed)",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyMDU0MiIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.O83TYzeO6aEpHPqqz1wfimG8OxpCGheJDw_E3npSRaI",
+    "salary_max": 46259.3,
+    "description": "Plasterer Wanted in Worcester – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Plastering jobs in Worcester? We connect skilled, self‑employed Plasterers with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availability and experti…",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "West Midlands",
+        "Worcestershire",
+        "Worcester"
+      ],
+      "display_name": "Worcester, Worcestershire"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201427444?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=1FFBB24B6A833B1C5BBC07ADFA9E463E455BC72C",
+    "created": "2025-05-16T09:51:29Z",
+    "salary_min": 46576.16,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "latitude": 57.606465,
+    "salary_is_predicted": "1",
+    "salary_max": 46576.16,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyNzQ0NCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.kcydDKuHDqvLg_ONJev4NWdkfnFY4GG6pBi4DaJ_M6A",
+    "id": "5201427444",
+    "longitude": -4.913927,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Painter & Decorator (Self-Employed)",
+    "description": "Painter & Decorator Wanted in Highland – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Painter & Decorator looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Painters & Decorators like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consistent…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Scotland",
+        "Highland"
+      ],
+      "display_name": "Highland, Scotland"
+    }
+  },
+  {
+    "category": {
+      "label": "IT Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "it-jobs"
+    },
+    "salary_min": 46857.91,
+    "latitude": 50.797372,
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707371751?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=49B5D49567CA6EC08374EF7EF23CDD7A9D821848",
+    "created": "2026-04-22T21:05:08Z",
+    "description": "Job Title: Senior Systems Engineer Location: Portsmouth Broad Oak – Full time on site We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: Up to £54,000 dependent on skills and experiences Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect what matter…",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Alverstoke, Gosport",
+      "area": [
+        "UK",
+        "South East England",
+        "Hampshire",
+        "Gosport",
+        "Alverstoke"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5707371751",
+    "longitude": -1.135393,
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Senior Systems Engineer",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1NzA3MzcxNzUxIn0.DuTfAHBmfQxqcFcuwbIVQyTCpwbu1jx70LByLohG9Xs",
+    "salary_max": 46857.91
+  },
+  {
+    "created": "2025-05-16T09:50:56Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201420630?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=75B27E1DCCF5918C67832082D6223B8C63AF3C58",
+    "latitude": 51.776501,
+    "salary_min": 41509.34,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Kitchen Fitter (Self-Employed)",
+    "longitude": 0.111317,
+    "id": "5201420630",
+    "salary_max": 41509.34,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDIwNjMwIn0.xCFG8qRVwMAst7zyJHdy2wo5trXox6Yfd4OJpTPNhzk",
+    "salary_is_predicted": "1",
+    "location": {
+      "display_name": "Harlow, Essex",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Eastern England",
+        "Essex",
+        "Harlow"
+      ]
+    },
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Kitchen Fitter Wanted in Harlow – Take Control of Your Workload! Join Our Network and Grow Your Business. Looking for more Kitchen Fitting jobs in Harlow? We connect skilled, self‑employed Kitchen Fitters with thousands of UK homeowners searching for reliable tradespeople every month. With MyJobQuote, you stay in control, choose the jobs that fit your skills, set your own schedule, and grow your business on your terms. Why Apply? Work on Your Terms – Pick the jobs that suit your availability an…"
+  },
+  {
+    "created": "2025-05-16T09:51:39Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201429413?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=A0151B7CD7B52D98ACBFF0AFFC800419194880EE",
+    "salary_min": 51953.12,
+    "latitude": 51.465,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs"
+    },
+    "salary_max": 51953.12,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQyOTQxMyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.eGeNaYaJ6D5d5a3g5mZrt_joCCKAXD81Bjc3r62W9nc",
+    "salary_is_predicted": "1",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Plasterer (Self-Employed)",
+    "longitude": -0.170524,
+    "id": "5201429413",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "South West London",
+        "Clapham Junction"
+      ],
+      "display_name": "Clapham Junction, South West London"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Plasterer Wanted in Clapham Junction – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Plasterer looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Plasterers like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consistent Work – Get access to j…"
+  },
+  {
+    "description": "Earn what you want, when you want. Take control of your schedule and deliver with your own vehicle. Start earning quickly and enjoy the flexibility you deserve. Whether you’re new to delivery or an experienced courier, you’re welcome at Gopuff. Why join Gopuff? Competitive pay – earn day or night. Flexible hours – work when it suits you. Weekly payments – straight to your UK bank account. Stay comfortable – wait indoors for your next order. 24/7 support – our Live Ops team is here to help. What…",
+    "latitude": 51.469871,
+    "salary_min": 36147.23,
+    "category": {
+      "tag": "travel-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Travel Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "display_name": "Stockwell, South West London",
+      "area": [
+        "UK",
+        "London",
+        "South West London",
+        "Stockwell"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5684828743?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=D0697826940954D420FEA8B8B6C2507B8C6AE3D0",
+    "created": "2026-04-01T05:09:06Z",
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NDgyODc0MyIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.WJLX6x6QJN9Wh1mYY4rotxWIncwfZ-PsUtbsj_L0RDA",
+    "salary_max": 36147.23,
+    "id": "5684828743",
+    "longitude": -0.115367,
+    "company": {
+      "display_name": "Gopuff",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Gopuff Delivery Riders - Flexible Schedule"
+  },
+  {
+    "created": "2025-05-16T09:51:37Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201429176?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=A1B06817544280C2F2C5EE483F2A958DF1A31908",
+    "salary_min": 60445.46,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs"
+    },
+    "latitude": 52.683601,
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0ZuaVMwTkY4Ukc2Tkp1TE1xd254QSIsImkiOiI1MjAxNDI5MTc2In0.GTy5ZFc3q7Y2kdQbR_6ZFGiFq1NzuULbvwuohEz4j4A",
+    "salary_max": 60445.46,
+    "longitude": -1.82236,
+    "title": "Tiler (Self-Employed)",
+    "company": {
+      "display_name": "MyJobQuote",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "id": "5201429176",
+    "location": {
+      "area": [
+        "UK",
+        "West Midlands",
+        "Staffordshire",
+        "Lichfield"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lichfield, Staffordshire"
+    },
+    "description": "Tiler Wanted in Lichfield – More Jobs, More Freedom Join Our Network and Grow Your Business. Are you an experienced, self-employed Tiler looking for steady work without the hassle of chasing leads? MyJobQuote connects skilled Tilers like you with thousands of UK homeowners actively searching for reliable tradespeople every month. With us, you’re in complete control – choose when you work, which jobs you take, and how much you earn. Why Apply? Consistent Work – Get access to job leads from homeo…",
+    "contract_type": "contract",
+    "__CLASS__": "Adzuna::API::Response::Job"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTIwMTQwODEwMCIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.iw3YHCn6Ux8NN0S8_2uAgM98rj9eDj0eKHbUhKp63uM",
+    "salary_max": 50669.06,
+    "salary_is_predicted": "1",
+    "id": "5201408100",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "MyJobQuote"
+    },
+    "title": "Plumber (Self-Employed)",
+    "longitude": -3.78436,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "contract_type": "contract",
+    "description": "Are you a skilled Self-Employed Plumber looking to grow your business and secure more work? MyJobQuote connects tradespeople like you with thousands of homeowners searching for trusted professionals every month! Do you have the necessary skills and qualifications? Join us today to gain access to leads and find opportunities to take on work as and when you require it. Simply register your details with us and build your profile to gain access to jobs advertised in your area. Required Education, S…",
+    "location": {
+      "display_name": "Falkirk, Falkirk County",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Scotland",
+        "Falkirk County",
+        "Falkirk"
+      ]
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5201408100?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=DEE755A237D59C1FB9585B4C442C21296E824460",
+    "created": "2025-05-16T09:50:03Z",
+    "latitude": 56.000702,
+    "category": {
+      "label": "Trade & Construction Jobs",
+      "tag": "trade-construction-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 50669.06
+  },
+  {
+    "category": {
+      "label": "Property Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "property-jobs"
+    },
+    "latitude": 51.554658,
+    "salary_min": 45173.79,
+    "created": "2026-04-22T19:07:34Z",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707342011?se=_FniS0NF8RG6NJuLMqwnxA&utm_medium=api&utm_source=982b6e71&v=B07B4F5A4272C65A05A993A8AB33C137E18B4E90",
+    "location": {
+      "area": [
+        "UK",
+        "London",
+        "North West London"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "North West London, London"
+    },
+    "contract_type": "permanent",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "description": "Property Surveyor - North West London with a leading Housing Association! Property Surveyor - North West London Salary: £49.526- £52,132 Location: NW London (Regional patch, field-based with hybrid/agile working) Contract: Permanent Driving licence required About the Role We’re looking for an experienced Property Surveyor to take ownership of complex building diagnostics, damp & mould cases, disrepair, and a wide range of repair and replacement works from first inspection through to completion.…",
+    "title": "Property Surveyor",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Hays"
+    },
+    "longitude": -0.217687,
+    "id": "5707342011",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzM0MjAxMSIsInMiOiJfRm5pUzBORjhSRzZOSnVMTXF3bnhBIn0.YGbXjVpMyecv0GBQ2WNIbUxLJnlsf9hxUXmDt4f38xU",
+    "salary_max": 45173.79,
+    "salary_is_predicted": "1"
+  }
+]

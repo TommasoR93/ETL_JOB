@@ -58,3 +58,93 @@
 49  51.448252  -2.060621  ...                   Stanley, Chippenham     part_time
 
 [50 rows x 22 columns] created
+2026-04-25 22:34:07,150 | INFO | utils.logging | <requests.sessions.Session object at 0x00000253AA882660> created
+2026-04-26 13:52:56,750 | INFO | utils.logging | <requests.sessions.Session object at 0x0000026C6DA46660> created
+2026-04-26 14:56:45,970 | INFO | utils.logging | Error <MagicMock name='mock.status_code' id='1804259835056'>
+2026-04-26 14:56:45,989 | INFO | utils.logging | Error <MagicMock name='mock.status_code' id='1804260983536'>
+2026-04-28 16:55:46,361 | INFO | utils.logging | <requests.sessions.Session object at 0x0000027890096660> created
+2026-04-28 17:14:47,670 | INFO | utils.logging | <requests.sessions.Session object at 0x0000022551DB6660> created
+2026-04-28 17:14:49,527 | INFO | utils.logging | Error 404
+2026-04-28 17:14:49,528 | INFO | utils.logging | [] paginated
+2026-04-28 17:14:49,528 | INFO | utils.logging | empty
+2026-04-28 17:14:49,553 | INFO | utils.logging | Empty DataFrame
+Columns: []
+Index: [] created
+2026-04-28 17:15:13,446 | INFO | utils.logging | <requests.sessions.Session object at 0x0000025E6675A660> created
+2026-04-28 17:15:15,216 | INFO | utils.logging | Error 404
+2026-04-28 17:15:15,217 | INFO | utils.logging | [] paginated
+2026-04-28 17:15:15,217 | INFO | utils.logging | empty
+2026-04-28 17:15:15,221 | INFO | utils.logging | Empty DataFrame
+Columns: []
+Index: [] created
+2026-04-28 17:16:31,771 | INFO | utils.logging | <requests.sessions.Session object at 0x000001FDFFBAA660> created
+2026-04-28 17:16:33,564 | INFO | utils.logging | Error 404
+2026-04-28 17:16:33,565 | INFO | utils.logging | [] paginated
+2026-04-28 17:16:33,565 | INFO | utils.logging | empty
+2026-04-28 17:16:33,568 | INFO | utils.logging | Empty DataFrame
+Columns: []
+Index: [] created
+2026-04-28 17:18:14,695 | INFO | utils.logging | <requests.sessions.Session object at 0x000001E67662A660> created
+2026-04-28 17:24:04,410 | INFO | utils.logging | <requests.sessions.Session object at 0x000001800855A660> created
+2026-04-28 17:29:56,497 | INFO | utils.logging | <requests.sessions.Session object at 0x000002819162A660> created
+2026-04-28 18:48:26,054 | INFO | utils.logging | <requests.sessions.Session object at 0x0000021837456660> created
+2026-04-29 20:42:42,723 | INFO | utils.logging | <requests.sessions.Session object at 0x000002A43FADA660> created
+2026-04-29 20:42:57,971 | INFO | utils.logging |     salary_is_predicted               created  ...          location.display_name                                      location.area
+0                     0  2026-04-14T20:06:52Z  ...            Grove Wick, Wantage  [UK, South East England, Oxfordshire, Wantage,...
+1                     1  2026-04-28T10:52:28Z  ...                  Gorad, Valley  [UK, Wales, Isle Of Anglesey, Holyhead, Valley...
+2                     1  2026-04-28T10:52:28Z  ...            Llanrhos, Llandudno     [UK, Wales, Conwy County, Llandudno, Llanrhos]
+3                     1  2026-04-28T10:52:28Z  ...        Mullanacaw, Enniskillen  [UK, Northern Ireland, Fermanagh, Enniskillen,...
+4                     1  2026-04-23T18:12:13Z  ...            Baguley, Manchester  [UK, North West England, Greater Manchester, M...
+..                  ...                   ...  ...                            ...                                                ...
+495                   1  2025-05-16T09:50:38Z  ...             Caversham, Reading  [UK, South East England, Berkshire, Reading, C...
+496                   1  2025-05-16T09:50:29Z  ...          Ashbourne, Derbyshire         [UK, East Midlands, Derbyshire, Ashbourne]
+497                   1  2026-04-27T22:23:52Z  ...              Tarring, Worthing  [UK, South East England, West Sussex, Worthing...
+498                   1  2025-05-16T09:51:54Z  ...  Bedfordshire, Eastern England                [UK, Eastern England, Bedfordshire]
+499                   1  2026-04-22T19:01:33Z  ...       Hammersmith, West London             [UK, London, West London, Hammersmith]
+
+[500 rows x 22 columns] created
+2026-04-29 21:17:44,274 | INFO | utils.logging | <requests.sessions.Session object at 0x000001C568B667B0> created
+2026-04-29 21:17:47,349 | INFO | utils.logging | Fetching page 1
+2026-04-29 21:19:39,351 | INFO | utils.logging | <requests.sessions.Session object at 0x000001C8E55267B0> created
+2026-04-29 21:19:42,134 | INFO | utils.logging | Fetching page 1
+2026-04-29 21:19:43,283 | INFO | utils.logging | Fetching page 2
+2026-04-29 21:19:44,422 | INFO | utils.logging | Fetching page 3
+2026-04-29 21:19:45,646 | INFO | utils.logging | Fetching page 4
+2026-04-29 21:19:46,867 | INFO | utils.logging | Fetching page 5
+2026-04-29 21:19:48,108 | INFO | utils.logging | Fetching page 6
+2026-04-29 21:19:49,427 | INFO | utils.logging | Fetching page 7
+2026-04-29 21:19:50,656 | INFO | utils.logging | Fetching page 8
+2026-04-29 21:19:52,000 | INFO | utils.logging | Fetching page 9
+2026-04-29 21:19:53,530 | INFO | utils.logging | Fetching page 10
+2026-04-29 21:19:55,166 | INFO | utils.logging | Fetching page 11
+2026-04-29 21:19:55,166 | INFO | utils.logging | Pagination and saving completed
+2026-05-01 11:18:30,617 | INFO | utils.logging | <requests.sessions.Session object at 0x000001A75C6B67B0> created
+2026-05-01 11:18:32,913 | INFO | utils.logging | Fetching page 1
+2026-05-01 11:18:33,737 | INFO | utils.logging | Fetching page 2
+2026-05-01 11:18:34,776 | INFO | utils.logging | Fetching page 3
+2026-05-01 11:18:35,629 | INFO | utils.logging | Fetching page 4
+2026-05-01 11:18:36,389 | INFO | utils.logging | Fetching page 5
+2026-05-01 11:18:37,570 | INFO | utils.logging | Fetching page 6
+2026-05-01 11:18:39,027 | INFO | utils.logging | Fetching page 7
+2026-05-01 11:18:40,797 | INFO | utils.logging | Fetching page 8
+2026-05-01 11:18:42,124 | INFO | utils.logging | Fetching page 9
+2026-05-01 11:18:44,328 | INFO | utils.logging | Fetching page 10
+2026-05-01 11:18:45,705 | INFO | utils.logging | Fetching page 11
+2026-05-01 11:18:45,705 | INFO | utils.logging | Pagination and saving completed
+2026-05-01 11:35:26,820 | INFO | utils.logging | Fetching page 1
+2026-05-01 11:35:26,821 | INFO | utils.logging | Fetching page 2
+2026-05-01 11:37:20,491 | INFO | utils.logging | Fetching page 1
+2026-05-01 11:37:20,492 | INFO | utils.logging | Fetching page 2
+2026-05-01 11:50:31,700 | INFO | utils.logging | <requests.sessions.Session object at 0x00000256E89B67B0> created
+2026-05-01 11:50:34,022 | INFO | utils.logging | Fetching page 1
+2026-05-01 11:50:34,849 | INFO | utils.logging | Fetching page 2
+2026-05-01 11:50:35,813 | INFO | utils.logging | Fetching page 3
+2026-05-01 11:50:36,564 | INFO | utils.logging | Fetching page 4
+2026-05-01 11:50:37,502 | INFO | utils.logging | Fetching page 5
+2026-05-01 11:50:38,586 | INFO | utils.logging | Fetching page 6
+2026-05-01 11:50:39,737 | INFO | utils.logging | Fetching page 7
+2026-05-01 11:50:40,924 | INFO | utils.logging | Fetching page 8
+2026-05-01 11:50:42,104 | INFO | utils.logging | Fetching page 9
+2026-05-01 11:50:43,250 | INFO | utils.logging | Fetching page 10
+2026-05-01 11:50:44,547 | INFO | utils.logging | Fetching page 11
+2026-05-01 11:50:44,547 | INFO | utils.logging | Pagination and saving completed

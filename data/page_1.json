@@ -1,0 +1,1728 @@
+[
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Oxfordshire",
+        "Wantage",
+        "Grove Wick"
+      ],
+      "display_name": "Grove Wick, Wantage"
+    },
+    "latitude": 51.612181,
+    "created": "2026-04-22T18:06:01Z",
+    "salary_max": 60000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Outcomes First Group"
+    },
+    "salary_min": 50000,
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your clinical career- All whilst working within a friendly multidisciplinary team in a rewarding education setting? Do you want to have opportunities to participate in research projects, special interest groups and form part of a wider clinical network that meets regularly for training & development? Do you want to have flexibility and be able to work creatively to deliver specialist assessments and in…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707303313?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=27A23C2C8628B75FEB4382BC30CF64E7C63F4B0B",
+    "id": "5707303313",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzA3MzAzMzEzIn0.RQT3Z-VLQbj9Ve2-BjcGZmV7vW3XnKBidd9G_7Uq_h4",
+    "longitude": -1.408618,
+    "title": "Lead Clinician",
+    "salary_is_predicted": "0",
+    "contract_type": "permanent"
+  },
+  {
+    "contract_type": "permanent",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzEyODI3OTA3In0.2zG2XiYvHD5n3rf8QLROhAFb_RIIV2PODL8TzNOW5nQ",
+    "longitude": -0.506176,
+    "title": "Occupational Therapist",
+    "id": "5712827907",
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your occupational therapy career- All whilst working within a friendly multidisciplinary team in a rewarding education setting? Do you want to have opportunities to participate in research projects, special interest groups and form part of a wider occupational therapy network that meets regularly for training & development? Do you want to have flexibility and be able to work creatively to deliver speci…",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5712827907?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=C2E3117990CE8DE4D9474D21491C76FDF49894FF",
+    "salary_min": 0,
+    "company": {
+      "display_name": "Outcomes First Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 53200,
+    "created": "2026-04-28T16:40:52Z",
+    "latitude": 51.428074,
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Surrey",
+        "Staines",
+        "Laleham"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Laleham, Staines"
+    }
+  },
+  {
+    "salary_is_predicted": "0",
+    "longitude": -0.621347,
+    "title": "Occupational Therapist",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMjgyNzg3NiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.KMYA2Mri-bM6uq1uHFnZe_vM6b9rTWGk3PqvxldKln8",
+    "contract_type": "permanent",
+    "salary_min": 0,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Outcomes First Group"
+    },
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.517774,
+    "salary_max": 53200,
+    "created": "2026-04-28T16:40:52Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Berkshire",
+        "Slough",
+        "Chalvey"
+      ],
+      "display_name": "Chalvey, Slough"
+    },
+    "id": "5712827876",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5712827876?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=307AED1C3DFB80542D0A4A5B6C579848F0CB9A8E",
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your occupational therapy career- All whilst working within a friendly multidisciplinary team in a rewarding education setting? Do you want to have opportunities to participate in research projects, special interest groups and form part of a wider occupational therapy network that meets regularly for training & development? Do you want to have flexibility and be able to work creatively to deliver speci…",
+    "contract_time": "full_time"
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Outcomes First Group"
+    },
+    "title": "Speech and Language Therapist Surrey",
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTE2MjA3OCIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.xD3uMIVS_-AZ0llm0e5hD88LB7FE5a450pdCV8gkpco",
+    "salary_min": 55000,
+    "salary_is_predicted": "0",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK"
+      ],
+      "display_name": "UK"
+    },
+    "created": "2026-04-14T20:06:53Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 55000,
+    "id": "5699162078",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5699162078?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=F51D0C1F4607621324396CE27E5E969F49A033EC",
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your speech and language therapy career- all whilst working within a friendly multidisciplinary team in a rewarding environment? London Children’s Practice is an exciting and creative practice looking for an ambitious Speech and Language Therapist who wants to grow their clinical skills in a strong team environment. We place a high importance on work-life balance, so we offer a Summer Contract that max…",
+    "contract_type": "permanent"
+  },
+  {
+    "contract_type": "permanent",
+    "longitude": -2.86863,
+    "title": "Part Time Science Teacher",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDMwNDIxMSIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.TC6-YsMwr8PtZWf1077hm-4Un9ty2lewsAYlKHkV4LY",
+    "salary_is_predicted": "0",
+    "id": "5700304211",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5700304211?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=65B9E76331C38E40732864D87B2ED66E67069B47",
+    "description": "At OFG we allow for greater work life balance and extra time to do the things you love outside work Job Title: Science Teacher Location: Maple Grove School, Chester, CH2 3HR Hours: 18.5 hours per week | 2.5 days per week Salary: From £19,240.00 per annum (dependent on experience, not pro rata) Contract: Permanent | Term Time Only Start: May 2026 UK applicants only – no sponsorship available About the Role As a Science Teacher at Maple Grove School, you will deliver high‑quality Science teaching…",
+    "contract_time": "part_time",
+    "company": {
+      "display_name": "Outcomes First Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "part-time-jobs",
+      "label": "Part time Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 19240,
+    "location": {
+      "display_name": "Hoole, Chester",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Cheshire",
+        "Chester",
+        "Hoole"
+      ]
+    },
+    "latitude": 53.198576,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-15T17:10:14Z"
+  },
+  {
+    "id": "5702684672",
+    "contract_type": "permanent",
+    "description": "We work smarter so that you can enjoy the things that matter outside of work Job Title: Math's Teacher Location: Red Kite School, Princes Risborough, HP27 0JW Hours: 40 hours per week | Monday to Friday | 8.00am - 4.00pm Salary: From £39,000.00 per annum (dependent on experience, not pro rata) Contract: Permanent | Term Time Only Start: September 2026 UK applicants only – no sponsorship available About the Role Are you a passionate, resilient and creative Maths Teacher who believes every child …",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5702684672?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=DABDD4DB134608D2AD9023A86C6A78860310693D",
+    "salary_min": 39000,
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzAyNjg0NjcyIn0.4QOXQVBcdIQpVIb9sZec2NyhO9FcwxNHXUPKHJkex3c",
+    "company": {
+      "display_name": "Outcomes First Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -0.829268,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs"
+    },
+    "title": "Maths Teacher",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-17T18:55:11Z",
+    "latitude": 51.727102,
+    "location": {
+      "display_name": "Monks Risborough, Princes Risborough",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Buckinghamshire",
+        "Princes Risborough",
+        "Monks Risborough"
+      ]
+    }
+  },
+  {
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your occupational therapy career- All whilst working within a friendly multidisciplinary team in a rewarding education setting? Do you want to have opportunities to participate in research projects, special interest groups and form part of a wider occupational therapy network that meets regularly for training & development? Do you want to have flexibility and be able to work creatively to deliver speci…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715043529?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=0017BED0B3451F7A60CF2886349CFF670F2F78B5",
+    "id": "5715043529",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 53200,
+    "latitude": 51.412251,
+    "created": "2026-05-01T02:15:04Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Berkshire",
+        "Bracknell",
+        "Binfield"
+      ],
+      "display_name": "Binfield, Bracknell"
+    },
+    "salary_min": 0,
+    "category": {
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Outcomes First Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "contract_type": "permanent",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1MDQzNTI5In0.7U0inJUdfL2eex4r1onSAv8VQDSGbty5_OyIiisqgr8",
+    "longitude": -0.775497,
+    "title": "Occupational Therapist"
+  },
+  {
+    "id": "5712631050",
+    "description": "Become a Self-Employed Delivery Driver with Evri with our new and improved application process now LIVE – apply in as little as 5 minutes and join one of the UK’s largest courier networks Looking for a new role or a more flexible way to earn that fits around your lifestyle? Join Evri as a self-employed delivery driver working on a schedule that suits you. PLUS, with our Day 1 roadmap, you can get allocated a fixed round straight away, so you can have stability with your time and income. With Ev…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5712631050?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=B4B73D21F86C4331C82B92D2A99B9AB3F728235F",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMjYzMTA1MCIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.GilapAc7d5iCj9VCWk1o8o_JBr19scpoZmLyE863o6U",
+    "company": {
+      "display_name": "Evri",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Delivery Driver",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "logistics-warehouse-jobs",
+      "label": "Logistics & Warehouse Jobs"
+    },
+    "longitude": 0.09989,
+    "salary_is_predicted": "1",
+    "salary_min": 40113.43,
+    "location": {
+      "display_name": "Coopers Green, Uckfield",
+      "area": [
+        "UK",
+        "South East England",
+        "East Sussex",
+        "Uckfield",
+        "Coopers Green"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 40113.43,
+    "created": "2026-04-28T10:52:28Z",
+    "latitude": 50.981945
+  },
+  {
+    "salary_is_predicted": "1",
+    "title": "SEN Primary Teacher",
+    "longitude": -1.129793,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTQ5OTQyMiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.iZ8tQW-X2rRmY8eg7bioXnWGgozBlBPfNIg1TRwBDP4",
+    "contract_type": "permanent",
+    "salary_min": 35549.88,
+    "category": {
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Witherslack Group"
+    },
+    "created": "2026-04-16T15:24:00Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.745771,
+    "salary_max": 35549.88,
+    "location": {
+      "display_name": "Wheatley, Oxford",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Oxfordshire",
+        "Oxford",
+        "Wheatley"
+      ]
+    },
+    "id": "5701499422",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701499422?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=89B6828EE9993E534CF0521B46830DD70308194A",
+    "contract_time": "full_time",
+    "description": "Up to £53,835  Excellent Benefits Please Note: This is a fixed perm contract for 1 Year starting in September - Based at Chilworth House , Primary School Those Huge Small Victories Our teachers are fulfilled by the idea of making even the smallest positive changes in our young people, so we celebrate the little things. There’s lots of ups and downs, and to some of our young people, sitting through a lesson can be a big win. We call these huge small victories and whilst they may seem small on th…"
+  },
+  {
+    "contract_type": "permanent",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzAxNTU4NDQ2In0.uGPL0s4fglVo1Ur5d4fYkU1DSlwN9ypWPQlRiOpA88A",
+    "title": "Teacher - Maths Lead",
+    "longitude": -1.427284,
+    "salary_is_predicted": "0",
+    "description": "At OFG we give you time to enjoy those special moments and hobbies outside of work Position: Teacher – Maths Lead Location: Bluebank School, Whittington Moor, Derbyshire, S41 8LQ Salary: Up to £48,000.00 per annum (depending on experience, not pro rata) Hours: 37.5 hours per week | Monday to Friday Contract: Permanent | Term Time Only Start: May 2026 UK applicants only. This role does not offer sponsorship. About the Role Bluebank School is seeking a dynamic Maths Subject Lead to drive excellen…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5701558446?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D3D18F751C0FB9F06C42632832F4229FA46D12F1",
+    "id": "5701558446",
+    "location": {
+      "display_name": "Whittington Moor, Chesterfield",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "East Midlands",
+        "Derbyshire",
+        "Chesterfield",
+        "Whittington Moor"
+      ]
+    },
+    "created": "2026-04-16T18:40:05Z",
+    "latitude": 53.255748,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 48000,
+    "company": {
+      "display_name": "Outcomes First Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 0
+  },
+  {
+    "title": "Occupational Therapist",
+    "longitude": -0.626929,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMjgyNzg4NiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.a9HWNIeNsRgWpyll-12TAY1pynYxrS0o7JX1qTIKV3U",
+    "salary_is_predicted": "0",
+    "contract_type": "permanent",
+    "company": {
+      "display_name": "Outcomes First Group",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs"
+    },
+    "salary_min": 0,
+    "location": {
+      "display_name": "Eton, Windsor",
+      "area": [
+        "UK",
+        "South East England",
+        "Windsor & Maidenhead",
+        "Windsor",
+        "Eton"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "latitude": 51.475458,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 53200,
+    "created": "2026-04-28T16:40:52Z",
+    "id": "5712827886",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5712827886?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=018A469BE3F510864A28BFAD4C244DF42FE06AD3",
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your occupational therapy career- All whilst working within a friendly multidisciplinary team in a rewarding education setting? Do you want to have opportunities to participate in research projects, special interest groups and form part of a wider occupational therapy network that meets regularly for training & development? Do you want to have flexibility and be able to work creatively to deliver speci…",
+    "contract_time": "full_time"
+  },
+  {
+    "description": "Looking for a permanent Customer Service role in Newtonards? Want to work in a team that celebrates achievement, big or small? If so, we want to hear from you today! Click apply, complete our online assessment and someone from our award winning Recruitment team will be in touch to discuss our opportunities! Why work with us? Up to £27,976.00 annual salary (monthly pay) HYBRID working options - save on commuting costs with only 2 day’s in the office each week. We invest in training and give you …",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5527357806?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=A594148A613C2F59B72BA07131FE823790F54A68",
+    "id": "5527357806",
+    "location": {
+      "area": [
+        "UK",
+        "Northern Ireland",
+        "Belfast",
+        "Sydenham"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Sydenham, Belfast"
+    },
+    "latitude": 54.607992,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 36275.21,
+    "created": "2025-12-04T15:59:09Z",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Customer Services Jobs",
+      "tag": "customer-services-jobs"
+    },
+    "company": {
+      "display_name": "Teleperformance",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 36275.21,
+    "contract_type": "permanent",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTI3MzU3ODA2In0.ddscWClHzPzKpqzVZu3psECO6GVfo3Exqfxm7J_SGq4",
+    "title": "Customer Service Specialist - N'Ards Natwest",
+    "longitude": -5.886176,
+    "salary_is_predicted": "1"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-03-26T17:19:39Z",
+    "salary_max": 22641.75,
+    "latitude": 53.52244,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Yorkshire And The Humber",
+        "South Yorkshire",
+        "Doncaster",
+        "Hyde Park"
+      ],
+      "display_name": "Hyde Park, Doncaster"
+    },
+    "salary_min": 22641.75,
+    "salary_is_predicted": "1",
+    "title": "Sales Advisor - Uncapped Commission",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "EE"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "sales-jobs",
+      "label": "Sales Jobs"
+    },
+    "longitude": -1.131483,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njc5MzQ2MTQ1In0.T8TX4W5Zd0yK_JVT1cFkQQoxVPaLMWv-4TSJKsjmzyY",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5679346145?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=58429F028358365285C8C3F4B44438F47C4DE7E7",
+    "description": "Sales Advisors - EE If you’re a natural when it comes to connecting with people – building relationships and understanding their needs – you could be a great fit for a Sales Advisor role with EE. At EE, we’re harnessing the power of technology to bring people together and change their lives for the better. Join our Doncaster Sales Team and you’ll play a part in this by talking to customers over the phone and helping them choose the right products and services. It’s a chance to make a meaningful…",
+    "id": "5679346145"
+  },
+  {
+    "id": "5684828682",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5684828682?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=F47DC4F5809410DF3A67D2607C4A41DCF8499FE8",
+    "description": "Earn what you want, when you want. Take control of your schedule and deliver with your own vehicle. Start earning quickly and enjoy the flexibility you deserve. Whether you’re new to delivery or an experienced courier, you’re welcome at Gopuff. Why join Gopuff? Competitive pay – earn day or night. Flexible hours – work when it suits you. Weekly payments – straight to your UK bank account. Stay comfortable – wait indoors for your next order. 24/7 support – our Live Ops team is here to help. What…",
+    "category": {
+      "tag": "travel-jobs",
+      "label": "Travel Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Gopuff",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -0.165668,
+    "title": "Gopuff Delivery Riders - Battersea",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NDgyODY4MiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.v96l_d0wCQfFZEBULRw1Tci7kwkQFS18r9anjKXFWfs",
+    "salary_is_predicted": "1",
+    "salary_min": 37380.19,
+    "location": {
+      "area": [
+        "UK",
+        "London",
+        "South West London",
+        "Clapham"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Clapham, South West London"
+    },
+    "created": "2026-04-01T05:09:05Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.466705,
+    "salary_max": 37380.19
+  },
+  {
+    "salary_is_predicted": "0",
+    "longitude": -0.694625,
+    "title": "Cycle Technician",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjkzNTk3MiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.fqdYg8A-A3S1MrTFltDoGDtBLS86YQHi_RjHceI-UFg",
+    "salary_min": 23400,
+    "company": {
+      "display_name": "Halfords",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "retail-jobs",
+      "label": "Retail Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 52.302526,
+    "salary_max": 27268,
+    "created": "2026-04-17T21:40:04Z",
+    "location": {
+      "area": [
+        "UK",
+        "East Midlands",
+        "Northants"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Northants, East Midlands"
+    },
+    "id": "5702935972",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5702935972?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=31194D168870A053351EA10693B53AB784D388E5",
+    "contract_time": "part_time",
+    "description": "Age 21 £13.11 per hour Under 21 £11.25 per hour Got a passion for all things bike? You’ll have some technical skills, but more about that later. Your unbridled enthusiasm for bikes combined with your knack with customers is what will lead you to success in this role - you’ll be delivering market leading standards of cycle service and repair, after all. Working on kids, adult, premium, performance and electric cycles, you’ll help us wow every customer. Carrying out most of the service and repair…"
+  },
+  {
+    "id": "5702486752",
+    "description": "Job Title: Maritime Electrical Engineer Location: Portsmouth Naval Base. We offer a range of hybrid and flexible working arrangements. Please speak to your recruiter about the options for this particular role Salary: Up to £42,000 depending on skills and experience What you’ll be doing: Applies knowledge, skill & experience in company products, services, approaches, techniques and governance. Applies experience and works across a range of standard products and services, resolves common engineer…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5702486752?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D401CCCFABA9CB9A4F96CA590E382D2A3C738687",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjQ4Njc1MiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.j_c4Sn5AqS6d6DZquMxE2nwEV8jcn4kVZbnQcNJJz48",
+    "longitude": -0.841868,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BAE Systems"
+    },
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "title": "Maritime Electrical Engineer",
+    "salary_is_predicted": "1",
+    "salary_min": 35284.16,
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Hampshire",
+        "Liss",
+        "Langley"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Langley, Liss"
+    },
+    "salary_max": 35284.16,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-17T12:35:08Z",
+    "latitude": 51.044938
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5707371850?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=4A4858E7465418F9E47106EE8E12FF792EDEC575",
+    "contract_time": "full_time",
+    "description": "£34,151 - £38,560 assuming good attendance and 1-2 sleep ins per month Those huge small victories Working in our Children’s Homes means being a part of a young person’s day to day life. This means being there for the highest highs and lowest lows. Our shift leaders enable our young people to get their childhood back and create pathways to become well rounded adults – an incredibly rewarding role to have. There will be challenges along the way but there will also be the smallest moments which fe…",
+    "id": "5707371850",
+    "latitude": 54.536882,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-22T21:05:39Z",
+    "salary_max": 32687.43,
+    "location": {
+      "display_name": "Thornaby, Stockton-On-Tees",
+      "area": [
+        "UK",
+        "North East England",
+        "County Durham",
+        "Stockton-On-Tees",
+        "Thornaby"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_min": 32687.43,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Social work Jobs",
+      "tag": "social-work-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Witherslack Group"
+    },
+    "salary_is_predicted": "1",
+    "longitude": -1.303961,
+    "title": "Senior Children's Residential Support Worker",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNzM3MTg1MCIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.o3HwmVXWAgBfZOLw0xWAUnKhFTx49XWo1tD2DCHFrn8"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T08:25:40Z",
+    "latitude": 51.415175,
+    "salary_max": 21840,
+    "location": {
+      "display_name": "Three Mile Cross, Reading",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Berkshire",
+        "Reading",
+        "Three Mile Cross"
+      ]
+    },
+    "salary_is_predicted": "0",
+    "salary_min": 21840,
+    "longitude": -0.97589,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Busy Bees"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "hospitality-catering-jobs",
+      "label": "Hospitality & Catering Jobs"
+    },
+    "title": "Catering Apprentice Level 2",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTU3NjE1NSIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.1KiHxcjU2TpLJBLQg-n24WywZY7SNb9Kf8NNE8DRKvs",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715576155?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=6F784D54282460168A41F592F144AC0602048E51",
+    "description": "Role Overview: Join Our Team at Busy Bees – Start Your Career with a Catering Apprenticeship! Are you passionate about starting a rewarding career in the catering industry? If you're eager to learn, grow, and develop your skills while working in a dynamic and supportive environment, our Catering Apprenticeship could be the perfect opportunity for you. Whether you're stepping into catering for the first time or looking to build on your skills, you’ll be supported every step of the way in a busy,…",
+    "id": "5715576155"
+  },
+  {
+    "description": "Description To support the Entertainment HOD in the overall success and consistent development of the entertainment experience, professional performers, operation and delivery, ensuring shows, live events and resort activations are delivered safely, on time, to brand standard and within budget. The Production manager will focus on developing individual and collective skills and improving performance standards across productions and performance interactions. Achieved by maintaining high standard…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715576050?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=BC44636CD791469534A5D207DE16338D7A7BB349",
+    "id": "5715576050",
+    "location": {
+      "display_name": "Felpham, Bognor Regis",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "West Sussex",
+        "Bognor Regis",
+        "Felpham"
+      ]
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T08:25:31Z",
+    "latitude": 50.787116,
+    "salary_max": 39692.77,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTU3NjA1MCIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.bv2K8f_QC3GHZmh1a86F6gstEg3m79xIcUmYFaKIeXo",
+    "company": {
+      "display_name": "Butlin's",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "label": "Hospitality & Catering Jobs",
+      "tag": "hospitality-catering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -0.660387,
+    "title": "Production Manager",
+    "salary_min": 39692.77,
+    "salary_is_predicted": "1"
+  },
+  {
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 72800,
+    "latitude": 51.523603,
+    "created": "2026-01-15T02:27:49Z",
+    "location": {
+      "display_name": "Holyport, Maidenhead",
+      "area": [
+        "UK",
+        "South East England",
+        "Windsor & Maidenhead",
+        "Maidenhead",
+        "Holyport"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_min": 58240,
+    "category": {
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Targeted Provision Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482525?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=6891E8DDDBB414FFFD895053FFAF6783918C9D05",
+    "contract_time": "part_time",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "id": "5585482525",
+    "salary_is_predicted": "0",
+    "longitude": -0.728269,
+    "title": "SLD Tutor",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTg1NDgyNTI1In0.REtRAHSvsKm4WPE0-RKQH3aps0hSwWaZbeO1dbhaCFs"
+  },
+  {
+    "id": "5715041428",
+    "description": "Job Title: Nuclear Commissioning Project Leader – Electrical (Reactor) Location: Barrow-In-Furness, onsite Salary: Negotiable depending on experience You’re expected to have completed 12 months in role prior to applying for an advertised vacancy and you should also discuss the internal opportunity with your line manager to ensure sustained business continuity and to further support your career development. We know there may be exceptional individual circumstances that impact this, in the first …",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041428?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=0E6ABDF8BE396497FA11CEE07A478A9E86FE79CE",
+    "salary_min": 47657.5,
+    "salary_is_predicted": "1",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1MDQxNDI4In0.K-HpcuSj6yWwEc5Pc54SmnDi4QeiummZdvE8Jmgu44A",
+    "longitude": -3.20408,
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "title": "Nuclear Commissioning Project Leader – Electrical (Reactor)",
+    "latitude": 54.188702,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:14:44Z",
+    "salary_max": 47657.5,
+    "location": {
+      "area": [
+        "UK",
+        "North West England",
+        "Cumbria",
+        "Askam-In-Furness"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Askam-In-Furness, Cumbria"
+    }
+  },
+  {
+    "contract_time": "part_time",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482650?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=5785980504FE1741C26082A276D511EC392822CD",
+    "id": "5585482650",
+    "location": {
+      "display_name": "Dorchester, Dorset",
+      "area": [
+        "UK",
+        "South West England",
+        "Dorset",
+        "Dorchester"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 72800,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 50.710701,
+    "created": "2026-01-15T02:27:52Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    },
+    "category": {
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 58240,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTg1NDgyNjUwIn0.o3qUYIpK60HSse7Kx5TCYdyObl6kzM0i39QvXauYGLI",
+    "longitude": -2.43401,
+    "title": "Special Education Needs Teacher",
+    "salary_is_predicted": "0"
+  },
+  {
+    "salary_min": 40170,
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "company": {
+      "display_name": "RAC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "latitude": 52.669894,
+    "created": "2026-04-10T16:08:43Z",
+    "salary_max": 44385,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "location": {
+      "area": [
+        "UK",
+        "West Midlands",
+        "Staffordshire",
+        "Lichfield",
+        "Wall"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Wall, Lichfield"
+    },
+    "id": "5695740258",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £40,170, with on-target earnings of up to £52,000 A guaranteed overtime option to increase your base salary, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm, and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for roadside rescue - but this isn’t that. Our Service, Maintenance & Repa…",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5695740258?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=23D804D0E2DA190F085AB555B3BC13A078F15664",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njk1NzQwMjU4In0.FO24_gXs8z-7FhGgfwOC88EeNk8c98BCBxzvMShAYVo",
+    "longitude": -1.851073,
+    "title": "Mobile Vehicle Technician"
+  },
+  {
+    "salary_min": 29952,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Busy Bees"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs"
+    },
+    "latitude": 51.483116,
+    "created": "2026-05-01T08:25:40Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 29952,
+    "location": {
+      "area": [
+        "UK",
+        "South West England",
+        "Bristol",
+        "Portishead",
+        "West Hill"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "West Hill, Portishead"
+    },
+    "id": "5715576153",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715576153?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=3BF21059AEC32E577F8690AE6F56E03A2139680E",
+    "description": "Role Overview: Join Our Team at Busy Bees – Leading Nursery Group in the UK As an Early Years Educator, you will play a leading role in fostering the intellectual, social, and emotional development of children at Busy Bees. Join a company that values high-quality education and provides ample growth opportunities. About Us Busy Bees is the UK's leading nursery group, with nearly 400 nurseries across the UK and more overseas. We are dedicated to giving every child the best start in life and are p…",
+    "contract_time": "full_time",
+    "salary_is_predicted": "0",
+    "title": "Nursery Practitioner Level 3",
+    "longitude": -2.760566,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTU3NjE1MyIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.Q7LPFJf-xhUD53lC3LFq8UYEe7IQYfPwEgDWe12QoDU"
+  },
+  {
+    "salary_min": 44941.7,
+    "salary_is_predicted": "1",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BAE Systems"
+    },
+    "title": "Principal Product Safety Engineer",
+    "longitude": -0.618872,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI0OTc1ODIxNDE4In0.h_bLjwJvmXDBqL18NBhcZHNdCtG9S3Gn0wXFoEPdX5I",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2024-12-12T20:22:14Z",
+    "salary_max": 44941.7,
+    "latitude": 53.747994,
+    "location": {
+      "display_name": "Ellerker, Brough",
+      "area": [
+        "UK",
+        "Yorkshire And The Humber",
+        "East Riding Of Yorkshire",
+        "Brough",
+        "Ellerker"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "4975821418",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4975821418?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=C32387A6AFF1AC6B603231E8ADDA0A212A9DFE8A",
+    "description": "Job Title: Principal Product Safety Engineer Location: Frimley, Weymouth, Bristol, Portsmouth, Barrow-in-Furness, Devonport, Plymouth or Brough, Hybrid We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role. Salary: Negotiable, depending on experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspect…"
+  },
+  {
+    "id": "5715043155",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715043155?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=32CF9DDDCDD6A2F0889F0F4AF459BC70B9BD3378",
+    "description": "Sir Robert McAlpine has secured a prestigious contract to construct a state-of-the-art Battery Manufacturing Facility. The initial phase of the project includes the design and construction of a new 15GWh lithium-ion battery facility, ancillary buildings, and site-wide external works Why Join Us Since 1869 we've worked on building and civil engineering projects that have set the standard for others to follow - right up to present-day examples like the Eden Project, Olympic Stadium, and award-win…",
+    "salary_min": 54461.67,
+    "salary_is_predicted": "1",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Sir Robert McAlpine"
+    },
+    "category": {
+      "tag": "trade-construction-jobs",
+      "label": "Trade & Construction Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -2.921398,
+    "title": "Quantity Surveyor",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1MDQzMTU1In0.gJMoFryojweFrnl1sSLIwmXBdhR95Nh2aXenoiiXZ1c",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 54461.67,
+    "created": "2026-05-01T02:14:59Z",
+    "latitude": 51.36302,
+    "location": {
+      "area": [
+        "UK",
+        "South West England",
+        "North Somerset",
+        "Weston-Super-Mare",
+        "Worle"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Worle, Weston-Super-Mare"
+    }
+  },
+  {
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5698436850?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=01B33AA3B34CA9623335077B702CBD03A7E42046",
+    "contract_time": "full_time",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £45,370 (inclusive of London Weighting Allowance, if applicable), with on-target earnings of up to £57,000 A guaranteed overtime option to increase your base salary to £44,385, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm, and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for ro…",
+    "id": "5698436850",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Orpington",
+        "St. Mary Cray"
+      ],
+      "display_name": "St. Mary Cray, Orpington"
+    },
+    "salary_max": 45370,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.391046,
+    "created": "2026-04-13T22:46:19Z",
+    "company": {
+      "display_name": "RAC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "salary_min": 45370,
+    "title": "Mobile Mechanic",
+    "longitude": 0.102987,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5ODQzNjg1MCIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.h8v3Ut91o9qTb3TVwtlL8zN5GrDhkawpRr7zwLhnf9M",
+    "salary_is_predicted": "0"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI0OTc1ODIxNDM5In0.OFuUJj_hHPXNk2vLJheu842F1hRQ0nRbpZ7KmfiHA4M",
+    "category": {
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "longitude": -2.598601,
+    "title": "Principal Product Safety Engineer",
+    "salary_min": 49642.33,
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "UK",
+        "South West England",
+        "Somerset",
+        "Yeovil",
+        "West Camel"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "West Camel, Yeovil"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.044825,
+    "created": "2024-12-12T20:22:16Z",
+    "salary_max": 49642.33,
+    "id": "4975821439",
+    "description": "Job Title: Principal Product Safety Engineer Location: Frimley, Weymouth, Bristol, Portsmouth, Barrow-in-Furness, Devonport, Plymouth or Brough, Hybrid We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role. Salary: Negotiable, depending on experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspect…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/4975821439?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=A16CE62B19F20CFC2F9B43E9A2FDA4C3E27F1A51"
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTg1NDgyNjM3In0.sppMuvOOEeqWjG3FWaa8zZeh2S3AEmTH-zMouHh8SKU",
+    "title": "SEN Teacher",
+    "longitude": -2.43401,
+    "id": "5585482637",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482637?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=37FF6D5BDE3390E0A12351C4BD070E7A58F95376",
+    "salary_min": 58240,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs"
+    },
+    "salary_max": 72800,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-01-15T02:27:52Z",
+    "latitude": 50.710701,
+    "location": {
+      "area": [
+        "UK",
+        "South West England",
+        "Dorset",
+        "Dorchester"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Dorchester, Dorset"
+    }
+  },
+  {
+    "contract_type": "permanent",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MTM2NDUxNiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.v4sz3FGFsaBw9KHAMUBz00cnIF5EZactZGIO3bgVwMw",
+    "longitude": -1.554776,
+    "title": "Contact Centre Agent - Uncapped Commission",
+    "salary_is_predicted": "1",
+    "contract_time": "full_time",
+    "description": "Where: EE Darlington (Senhouse Road) Full time: Permanent Salary: £26,166.00 rising to £26,738.00 after 8 months of being here, plus incentives and bonuses Hourly rate: £13.35 per hour rising to £13.66 per hour at 9 months in role Start date: June 2026 What’s in it for you • Competitive Salary: Starting at £25,087, rising to £25,684 after 8 months, plus an uncapped monthly commission scheme • Online GP: Access to a private GP 24/7 for you and your immediate family • Paid Carer’s Leave: Market-l…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5671364516?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=819EBD88AECF3952703E268F2A5882AFF94589F3",
+    "id": "5671364516",
+    "location": {
+      "display_name": "Hurworth, Darlington",
+      "area": [
+        "UK",
+        "North East England",
+        "County Durham",
+        "Darlington",
+        "Hurworth"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 54.525608,
+    "created": "2026-03-18T23:40:22Z",
+    "salary_max": 25846.57,
+    "company": {
+      "display_name": "EE",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "sales-jobs",
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 25846.57
+  },
+  {
+    "contract_type": "permanent",
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzExOTM5MDM0In0.9wxf6gV-UG-CfDGL1bNZF4KN4tK8F8-RZtjFF8jRQPI",
+    "longitude": -1.099804,
+    "title": "Extra Care Registered Manager",
+    "id": "5711939034",
+    "description": "Extra Care Registered Manager Salary: £30,000 per annum Job Type: Permanent, Full-time Location: Corbetts Wat, Thame, Oxfordshire, OX9 2FL We are seeking an experienced and compassionate Extra Care Manager to lead our Extra Care service at Corbetts Wat in Thame. This is a rewarding leadership role for someone committed to delivering high-quality, person-centred care while supporting residents to live independently and with dignity. Our Values Everything we do is guided by our core values: Perso…",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5711939034?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=899BF9D6D2DA5BA6859F83305970FC94054FD345",
+    "salary_min": 30,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "All Care"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "social-work-jobs",
+      "label": "Social work Jobs"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.428224,
+    "salary_max": 30,
+    "created": "2026-04-27T19:21:24Z",
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Berkshire",
+        "Reading",
+        "Englefield"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Englefield, Reading"
+    }
+  },
+  {
+    "salary_min": 45370,
+    "company": {
+      "display_name": "RAC",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "salary_max": 45370,
+    "created": "2026-04-10T16:08:34Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.235278,
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Surrey",
+        "Guildford",
+        "Artington"
+      ],
+      "display_name": "Artington, Guildford"
+    },
+    "id": "5695740065",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5695740065?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D47F6D2C911185FCB12BFAE9205A686DDCC9EBF9",
+    "contract_time": "full_time",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £45,370 (inclusive of London Weighting Allowance, if applicable), with on-target earnings of up to £57,000 A guaranteed overtime option to increase your base salary, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm, and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for roadside resc…",
+    "salary_is_predicted": "0",
+    "title": "Mobile Mechanic",
+    "longitude": -0.567495,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njk1NzQwMDY1In0.uEI93T8B8Pc_NNBMsi1NCnATRpBxWchg2hZ2Vd6WKy0"
+  },
+  {
+    "id": "5705352563",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5705352563?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=9988C6CCCD8B64CEC3CA173D5147FBD720E439B4",
+    "description": "Process Lead Billingham (Home of McCoy’s, Wheat Crunchies, pombear and more…) On-site Join our snack-loving team We’re looking for a Process Lead to join us at KP Snacks. If you’re ready to bring your ideas to the table, grow your skills and be part of a team that values what makes you, you – this could be your next big move. About the role The Process Lead is responsible for the Daily Management System (DMS) processes and utilising structured problem-solving techniques, which supports and help…",
+    "salary_is_predicted": "1",
+    "salary_min": 46594.33,
+    "company": {
+      "display_name": "KP Snacks",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "IT Jobs",
+      "tag": "it-jobs"
+    },
+    "title": "Process Lead",
+    "longitude": -1.264665,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzA1MzUyNTYzIn0.qb7Wc36KQnd3NAyGYLyn-N2NX7rSvejFz1pBWxJX2fI",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-20T19:29:43Z",
+    "latitude": 54.609425,
+    "salary_max": 46594.33,
+    "location": {
+      "area": [
+        "UK",
+        "North East England",
+        "County Durham",
+        "Billingham",
+        "Belasis Hall Technology Park"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Belasis Hall Technology Park, Billingham"
+    }
+  },
+  {
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "engineering-jobs",
+      "label": "Engineering Jobs"
+    },
+    "title": "Human Factors Integration Manager (Edgewing)",
+    "longitude": -0.703201,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTA0MTgwOSIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.ildJflQ1ozHSaExNofCZAs-58v1Erdj4D_a8plXxNf4",
+    "salary_is_predicted": "1",
+    "salary_min": 56783.68,
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Hampshire",
+        "Aldershot",
+        "Ash Green"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Ash Green, Aldershot"
+    },
+    "salary_max": 56783.68,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:14:47Z",
+    "latitude": 51.249622,
+    "id": "5715041809",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041809?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=14C7A1F34329C1D09648C5A86C28F16B83F20037",
+    "description": "Job Title: Human Factors Integration Manager (Edgewing) Location: Reading area. The role could be contracted to any BAE Systems site (preferably Frimley) but on commencement will immediately be assigned to our Edgewing JV in the Reading area. A financial support package may be available to enable this assignment if required, dependent on certain criteria being met. Due to the nature of this assignment, we envisage there will be a need for mostly on site working, however, flexible working arrang…"
+  },
+  {
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482661?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=317D2013B69A7067F88EFEB0973C49BAA81986BB",
+    "id": "5585482661",
+    "latitude": 53.40617,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 72800,
+    "created": "2026-01-15T02:27:52Z",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "North West England",
+        "Merseyside",
+        "Liverpool",
+        "Low Hill"
+      ],
+      "display_name": "Low Hill, Liverpool"
+    },
+    "salary_min": 58240,
+    "company": {
+      "display_name": "Targeted Provision Ltd",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs"
+    },
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTg1NDgyNjYxIn0.nLdgRrHSLgYYkAynLs2bGSOa6oNguBTBp8HHxoiJNq8",
+    "title": "MLD Teacher",
+    "longitude": -2.983161
+  },
+  {
+    "salary_is_predicted": "1",
+    "title": "Senior Submarine Stealth Engineer",
+    "longitude": -3.175876,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzA1MzA3ODg3In0.rPxya1vwot0D8M6nwh7oZFd5qiqkV7SGmGCyi8NpNZo",
+    "salary_min": 67108.77,
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BAE Systems"
+    },
+    "salary_max": 67108.77,
+    "latitude": 54.239544,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-20T16:27:51Z",
+    "location": {
+      "display_name": "Chapels, Kirkby-In-Furness",
+      "area": [
+        "UK",
+        "North West England",
+        "Cumbria",
+        "Kirkby-In-Furness",
+        "Chapels"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5705307887",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5705307887?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=651723011BA166CAC796502B804123A56FC4C1DF",
+    "contract_time": "full_time",
+    "description": "Job Title: Senior Submarine Stealth Engineer Location: Barrow-in-Furness – full time onsite We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: £42,215 dependant on skills & experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect what matters m…"
+  },
+  {
+    "contract_time": "full_time",
+    "description": "Job Description Sister/Charge Nurse - Theatre North Downs Hospital Full Time - 37.5 Hours per week The role At Ramsay Health Care UK, we know our people are our most important asset. Join our Theatre department as a Theatre Sister/Charge Nurse, and support on our journey of ‘people caring for people’. You’ll have the best facilities – many of our theatres have laminar airflow systems and state of the art integrated theatre technology. Where you'll be based North Downs Hospital, Caterham What yo…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5703227715?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=2C052B26230C15950CE79D2F3333D9DED11FB7BC",
+    "id": "5703227715",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "London",
+        "Sutton",
+        "Belmont"
+      ],
+      "display_name": "Belmont, Sutton"
+    },
+    "latitude": 51.366608,
+    "salary_max": 47535.12,
+    "created": "2026-04-18T03:40:26Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ramsay Health Care"
+    },
+    "category": {
+      "label": "Healthcare & Nursing Jobs",
+      "tag": "healthcare-nursing-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 47535.12,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzAzMjI3NzE1In0.di5Viwn2gZA7CfgzFQ2anLJ8b-1-Taj5EQE9Vv3VOGk",
+    "title": "Sister/Charge Nurse - Theatre",
+    "longitude": -0.192794,
+    "salary_is_predicted": "1"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njk5MDQ0OTk3In0.2-FPCOw81mVlU1x_n5VHbLaIetbypJaQkkPWObiikoc",
+    "title": "Senior Commercial Manager",
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "tag": "sales-jobs",
+      "label": "Sales Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "longitude": -3.20408,
+    "salary_min": 43136.88,
+    "salary_is_predicted": "1",
+    "location": {
+      "area": [
+        "UK",
+        "North West England",
+        "Cumbria",
+        "Askam-In-Furness"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Askam-In-Furness, Cumbria"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 54.188702,
+    "created": "2026-04-14T14:09:46Z",
+    "salary_max": 43136.88,
+    "id": "5699044997",
+    "description": "Job Title: Senior Commercial Manager Location: Barrow-in-Furness We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: From £60,350 depending on skills and experience plus executive car allowance and bonus on top Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress …",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5699044997?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D77DD885B233909272DF9983181D256FE9B005E8"
+  },
+  {
+    "id": "5685087567",
+    "description": "Earn what you want, when you want! Become a Gopuff Delivery Partner and take control of your schedule. Deliver with your own vehicle, on your own time – and get paid weekly. Whether you’re new to delivery or an experienced courier, you’re welcome at Gopuff. What’s in it for you? Competitive pay – earn around the clock. Flexible hours – work when it suits you. Weekly payments – straight to your bank account. Stay comfortable – wait indoors for your next order. 24/7 support – our Live Ops team is…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5685087567?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=AB388A20241F94356AECED289EDE6F7BD02DD60C",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1Njg1MDg3NTY3In0.hvWokiV_X8m6DsRRMqo8NBJfnXAbDj5_U_cYHeOU-A0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Gopuff"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Travel Jobs",
+      "tag": "travel-jobs"
+    },
+    "longitude": -2.263208,
+    "title": "Gopuff Delivery Drivers or Riders - Flexible Schedule",
+    "salary_is_predicted": "1",
+    "salary_min": 34606.95,
+    "location": {
+      "display_name": "Moss Side, Manchester",
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Manchester",
+        "Moss Side"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-04-01T08:21:15Z",
+    "latitude": 53.456154,
+    "salary_max": 34606.95
+  },
+  {
+    "id": "5715041774",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041774?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=20DF1C926BEB161B6257897A6C2EC6360D70B460",
+    "description": "Job Title: Project Finance Analyst Location: Broad Oak , Hybrid We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: Circa £50,000 dependent on skills and experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect what matters most. You’ll be trust…",
+    "salary_min": 38725.62,
+    "salary_is_predicted": "1",
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "accounting-finance-jobs",
+      "label": "Accounting & Finance Jobs"
+    },
+    "longitude": -1.04006,
+    "title": "Project Finance Analyst",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTA0MTc3NCIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.aVNSRyQXbEhb8xbaUPdXRnRfsIWO0fLaGAE_36op1Xk",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 50.882945,
+    "created": "2026-05-01T02:14:47Z",
+    "salary_max": 38725.62,
+    "location": {
+      "display_name": "Purbrook, Waterlooville",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Hampshire",
+        "Waterlooville",
+        "Purbrook"
+      ]
+    }
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1NTc2MDQ0In0.vnx4dXdY3DkFkCyiY0YKTN1hUZ6LfHD02E9cGOqytNA",
+    "title": "Seasonal - Bars Team Member",
+    "longitude": -0.660387,
+    "salary_is_predicted": "0",
+    "contract_type": "contract",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "West Sussex",
+        "Bognor Regis",
+        "Felpham"
+      ],
+      "display_name": "Felpham, Bognor Regis"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T08:25:31Z",
+    "latitude": 50.787116,
+    "salary_max": 26436,
+    "category": {
+      "tag": "hospitality-catering-jobs",
+      "label": "Hospitality & Catering Jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "company": {
+      "display_name": "Butlin's",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "salary_min": 26436,
+    "description": "Description About The Role This is a Fixed Term - Full Time Seasonal Role Our teams create unforgettable experiences for our guests and we are currently looking for amazing team members to join us in our bars department, to provide excellent customer service to our guests in our entertainment venues. Experience is preferred but we will give you all the training you need if the right candidate comes along. Working alongside a fantastic team, we will support you every step of the way to ensure yo…",
+    "contract_time": "full_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715576044?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=180EEF213068F2DF16390B9810B4A7B392058FFF",
+    "id": "5715576044"
+  },
+  {
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South East England",
+        "Buckinghamshire",
+        "Gerrards Cross",
+        "Chalfont St. Peter"
+      ],
+      "display_name": "Chalfont St. Peter, Gerrards Cross"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 72800,
+    "latitude": 51.59446,
+    "created": "2026-01-26T17:42:18Z",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs"
+    },
+    "salary_min": 58240,
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5601011988?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=BEC8AA698A6728FA99B94A515BBD59502EDB1182",
+    "id": "5601011988",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYwMTAxMTk4OCIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.ENCRnlwrdrrBoW-m_vDZBqQyAaOKaAeAp5vDOwHRAz8",
+    "longitude": -0.555282,
+    "title": "SEN / SEND Tutor, Buckinghamshire",
+    "salary_is_predicted": "0"
+  },
+  {
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NTg1NDgyNjU0In0.vHK_q6N3n-cmA1fVpQlQeiDJyxRTly8QGLIY7fwF8sA",
+    "title": "MLD Teacher",
+    "longitude": 0.527817,
+    "salary_is_predicted": "0",
+    "id": "5585482654",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…",
+    "contract_time": "part_time",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5585482654?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D70C1BDD1EF2C505C5B58A69DC970064E02C1C23",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    },
+    "category": {
+      "label": "Teaching Jobs",
+      "tag": "teaching-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 58240,
+    "location": {
+      "display_name": "Chequers Centre, Maidstone",
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Maidstone",
+        "Chequers Centre"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "created": "2026-01-15T02:27:52Z",
+    "salary_max": 72800,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.269943
+  },
+  {
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "RAC"
+    },
+    "category": {
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs",
+      "__CLASS__": "Adzuna::API::Response::Category"
+    },
+    "salary_min": 40170,
+    "location": {
+      "display_name": "Grove, Leighton Buzzard",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Eastern England",
+        "Bedfordshire",
+        "Leighton Buzzard",
+        "Grove"
+      ]
+    },
+    "latitude": 51.90763,
+    "created": "2025-11-11T20:11:18Z",
+    "salary_max": 44385,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "id": "5491117366",
+    "contract_time": "full_time",
+    "description": "Join the RAC as a Mobile Vehicle Technician in our SMR Division - a new era of mobile repair. A competitive base salary of £40,170, with on-target earnings of up to £52,000 A guaranteed overtime option to increase your base salary, plus additional overtime and bonus opportunities 40 hours per week, with core hours from 8:30 am to 5:00 pm, and 1 in 4 Saturdays. A Different Kind of RAC Role: Welcome to SMR The RAC is known for roadside rescue - but this isn’t that. Our Service, Maintenance & Repa…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5491117366?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=28FA1462611E5D5C6795FAD3EC17832ED54F3882",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ5MTExNzM2NiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.qQHFZzpFubV6wPIChzD7Y19eTFqSHFXvWm6St-fGkA8",
+    "longitude": -0.663716,
+    "title": "Mobile Vehicle Technician",
+    "salary_is_predicted": "0"
+  },
+  {
+    "id": "5715041742",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041742?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=3B8E8816CE33F0866EB7B20107F1BCB9C7D97125",
+    "description": "Job Title: Project Accountant (Implementation Project) Location: Scotstoun, Onsite – 3 days a week We offer a range of hybrid and flexible working arrangements – please speak to your recruiter about the options for this particular role Salary: Up to £47,000 dependent on skills and experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect…",
+    "company": {
+      "display_name": "BAE Systems",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "title": "Project Accountant Implementation",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Accounting & Finance Jobs",
+      "tag": "accounting-finance-jobs"
+    },
+    "longitude": -4.523495,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTA0MTc0MiIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.Wk3tRk8WeQ-p07mUjdqOZOKBzSiyRmLzIOFrXJHbhwY",
+    "salary_min": 48279.04,
+    "salary_is_predicted": "1",
+    "location": {
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "Scotland",
+        "East Ayrshire",
+        "Kilmarnock",
+        "Annandale"
+      ],
+      "display_name": "Annandale, Kilmarnock"
+    },
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:14:47Z",
+    "latitude": 55.612341,
+    "salary_max": 48279.04
+  },
+  {
+    "description": "Description This role will be covering North Manchester. Key Responsibilities We are looking for someone to: Achieve DMA exit levels Interact with UU and dig team agents Have a good understanding of reading a DMA map Interact with customer and explaining any procedures needed to complete work on private land We are looking for someone who has good timekeeping and good housekeeping with tools and equipment We are looking for someone to use GARD (smartphone system) to deliver all feedback for com…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715044925?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=48D080748753085C3C6FF95B9B8820E9ACBF8E79",
+    "id": "5715044925",
+    "location": {
+      "display_name": "Mosley Common, Worsley",
+      "area": [
+        "UK",
+        "North West England",
+        "Greater Manchester",
+        "Manchester",
+        "Worsley",
+        "Mosley Common"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "salary_max": 32000,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:15:18Z",
+    "latitude": 53.503719,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1MDQ0OTI1In0.YfyzhBu2_WmaXpWj2LIGPO0ZyAGHUwOOcTiLNxmrhjM",
+    "longitude": -2.436531,
+    "company": {
+      "display_name": "Network Plus",
+      "__CLASS__": "Adzuna::API::Response::Company"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "title": "Leakage Technician",
+    "salary_is_predicted": "0",
+    "salary_min": 32000
+  },
+  {
+    "contract_type": "permanent",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjU1MzY4OTk1In0.zrHp_6Qm1Q-L-_hXgrZXxIeL-tFuPkoJfZ-vvo59Sts",
+    "longitude": 0.237865,
+    "title": "Delivery Driver - Erith",
+    "salary_is_predicted": "0",
+    "id": "5655368995",
+    "contract_time": "full_time",
+    "description": "Love being on the move and interacting with people from all walks of life? Proud to deliver quality goods on time and put a smile on thousands of faces every week? Join Ocado Logistics where there are bags of possibilities. It’s our mission to provide an outstanding customer experience. Whilst others might call you delivery drivers, here at Ocado Logistics our Customer Service Team Members play a vital role, delivering top quality products on time and in an efficient manner. You’ll be out on th…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5655368995?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=047096A4CEC5D43121E20868DF97BFACD212DB03",
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Logistics & Warehouse Jobs",
+      "tag": "logistics-warehouse-jobs"
+    },
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Ocado Logistics"
+    },
+    "salary_min": 14,
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Dartford",
+        "Lane End"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Lane End, Dartford"
+    },
+    "created": "2026-03-05T20:24:29Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "latitude": 51.439606,
+    "salary_max": 14
+  },
+  {
+    "latitude": 51.34315,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "created": "2026-05-01T02:14:47Z",
+    "salary_max": 28866.01,
+    "location": {
+      "area": [
+        "UK",
+        "South East England",
+        "Kent",
+        "Sittingbourne",
+        "Milton Regis"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "display_name": "Milton Regis, Sittingbourne"
+    },
+    "salary_min": 28866.01,
+    "salary_is_predicted": "1",
+    "longitude": 0.735537,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "BAE Systems"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "label": "Engineering Jobs",
+      "tag": "engineering-jobs"
+    },
+    "title": "Manufacturing Engineer",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NzE1MDQxODMxIn0.kyW9Ybf7nUdoEnxydL9oFknLPsPFl8opVMAGQRJ--a4",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715041831?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=2AFEA972EE77371E8D27C24F58C1D45BAF5031EA",
+    "description": "Job Title: Manufacturing Engineer – PCB Process Location: Rochester; Kent: Onsite Salary: Up to £50,000 depending on experience Who we are: Join BAE Systems and you’ll be part of something bigger. As a valued member of our global colleague network, you’ll bring your unique skills and perspectives to help pioneer progress and protect what matters most. You’ll be trusted to play your part in delivering the advanced, technology-led defence, aerospace and security solutions of tomorrow, shaping a s…",
+    "id": "5715041831"
+  },
+  {
+    "longitude": -3.528222,
+    "title": "SEN Teacher",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWlVclJrTkY4UkdwSU9WUWJkZ3FZUSIsImkiOiI1NjAxMDExOTkwIn0.CrESqAXlNxvkc6F0c3gGqWkv0S6nm_d8Us76KsBLV4g",
+    "salary_is_predicted": "0",
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Targeted Provision Ltd"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "teaching-jobs",
+      "label": "Teaching Jobs"
+    },
+    "salary_min": 58240,
+    "location": {
+      "display_name": "St. Leonards, Exeter",
+      "__CLASS__": "Adzuna::API::Response::Location",
+      "area": [
+        "UK",
+        "South West England",
+        "Devon",
+        "Exeter",
+        "St. Leonards"
+      ]
+    },
+    "latitude": 50.725278,
+    "created": "2026-01-26T17:42:18Z",
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 72800,
+    "id": "5601011990",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5601011990?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=D84D06ED7AC565418D266DB3DD96C6AEC5BD122C",
+    "contract_time": "part_time",
+    "description": "You can make a difference, be rewarded, and join our impact-driven community now - at Targeted Provision we change lives ! Multiple positions are available, hiring is ongoing, and interviews are being arranged as applications come in. We will contact you with nearby tutoring work within 45 minutes drive of the advertised location and/or within 45 minutes of the postcode you provide us. What makes this role right for you: We are working with Schools and Local Authorities in your area and are loo…"
+  },
+  {
+    "salary_is_predicted": "0",
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTA0MzU5NSIsInMiOiJBaVVyUmtORjhSR3BJT1ZRYmRncVlRIn0.nLp02v4IzQfvJzEvDLTWmECC0hM34s78H8OePkPQrIM",
+    "title": "Senior Speech and Language Therapist",
+    "longitude": -0.728269,
+    "contract_type": "permanent",
+    "salary_min": 0,
+    "company": {
+      "__CLASS__": "Adzuna::API::Response::Company",
+      "display_name": "Outcomes First Group"
+    },
+    "category": {
+      "__CLASS__": "Adzuna::API::Response::Category",
+      "tag": "healthcare-nursing-jobs",
+      "label": "Healthcare & Nursing Jobs"
+    },
+    "latitude": 51.523603,
+    "__CLASS__": "Adzuna::API::Response::Job",
+    "salary_max": 53200,
+    "created": "2026-05-01T02:15:04Z",
+    "location": {
+      "display_name": "Holyport, Maidenhead",
+      "area": [
+        "UK",
+        "South East England",
+        "Windsor & Maidenhead",
+        "Maidenhead",
+        "Holyport"
+      ],
+      "__CLASS__": "Adzuna::API::Response::Location"
+    },
+    "id": "5715043595",
+    "contract_time": "full_time",
+    "description": "Are you looking for an employer who can offer you opportunities for growth and development in your speech and language therapy career- All whilst working within a friendly multidisciplinary team in a rewarding education setting? Do you want to have opportunities to participate in research projects, special interest groups and form part of a wider speech and language therapy network that meets regularly for training & development? Do you want to have flexibility and be able to work creatively to…",
+    "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5715043595?se=AiUrRkNF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=982b6e71&v=534F59A1B8FDA5BF9F6B284221BDE0F3181BC431"
+  }
+]
