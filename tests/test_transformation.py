@@ -1,5 +1,4 @@
 from src.transformation import select_columns, filter_jobs, aggregate_jobs, salary_level
-import os
 import pytest
 from pyspark.sql import SparkSession
 from pyspark.sql import Row
@@ -9,14 +8,9 @@ import pyspark.sql.functions as F
 def spark():
     spark = (
         SparkSession.builder
-        .master("local[1]")  # 👈 force single JVM, avoids worker issues
-        .appName("pytest-pyspark")
+        .master("local[1]")  
         .config("spark.ui.enabled", "false")
         .config("spark.sql.shuffle.partitions", "1")
-        .config("spark.driver.host", "127.0.0.1")
-        .config("spark.pyspark.python", os.sys.executable)
-        .config("spark.pyspark.driver.python", os.sys.executable)
-        .config("spark.executorEnv.PYSPARK_PYTHON", os.sys.executable)
         .getOrCreate()
     )
 
