@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 import os
 from config.config import load_config
 import time
-import pandas as pd
 import json
 from utils.logging import create_log
 from pathlib import Path
