@@ -1,24 +1,4 @@
-from pyspark.sql import SparkSession
 import pyspark.sql.functions as F
-from dotenv import load_dotenv
-import os
-
-load_dotenv()
-
-# Spark Session
-def create_spark():
-    return (
-        SparkSession.builder
-        .appName(os.getenv("SPARK_APP_NAME", "ETL_JOB"))
-        .master(os.getenv("SPARK_MASTER", "local[*]"))
-        .getOrCreate()
-
-    )
-spark = create_spark()
-
-#Dataframe creation
-for i in range(1,11):
-    df = spark.read.option("multiLine", "true").json(f"data/page_{i}.json")
 
 #Select
 def select_columns(df):

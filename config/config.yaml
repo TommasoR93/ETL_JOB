@@ -8,3 +8,6 @@ LOGGING:
   log_file : "log/job_log"
   level: "INFO"
   formatter: "%(asctime)s | %(levelname)s | %(name)s | %(message)s"
+
+DB:
+  target_table : customers
