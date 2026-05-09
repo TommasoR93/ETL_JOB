@@ -1,0 +1,13 @@
+API:
+  page: 1
+  results_per_page : 100
+  country : "gb"
+  rate_limit : 5
+
+LOGGING:
+  log_file : "log/job_log"
+  level: "INFO"
+  formatter: "%(asctime)s | %(levelname)s | %(name)s | %(message)s"
+
+DB:
+  target_table : customers
